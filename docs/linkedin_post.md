@@ -1,42 +1,30 @@
 # LinkedIn Post (English)
 
+> Tone: project showcase + enterprise AI/automation capability (not job-seeking).
+> Tip: attach `screenshots/dashboard_overview.png` to the LinkedIn post for reach.
+
 ---
 
-🛡️ I built an **Enterprise AI Control Tower** — an executive decision-support
-prototype that turns scattered business signals into a single, prioritized view.
+🛡️ I just shipped a portfolio project I'm proud of: the Enterprise AI Control Tower.
 
-**The problem:** organizations rarely lack data — they lack a timely, interpreted
-view of it. Financial, support, and approval signals sit in separate systems,
-reporting is backward-looking, and risks like overdue invoices, breached SLAs,
-and stalled approvals are often caught too late.
+The premise is simple: most organizations don't suffer from a lack of data — they suffer from fragmented data, delayed visibility, manual reporting, and weak early-warning signals.
 
-**The solution:** a modular system that, on synthetic data, brings it all
-together:
+This prototype shows how an AI-enabled "control tower" can bring it all into one executive view:
 
-📊 Executive KPI dashboard (finance, support, approvals)
-🚨 Automated, prioritized risk detection with recommended actions
-🧠 AI Executive Summary — a management-ready briefing
-💬 AI Manager Assistant — natural-language Q&A over KPIs and risks
-🔄 Weekly reporting automation demo with n8n
+📊 KPI monitoring across finance, support, and approvals
+🚨 Rule-based risk detection with prioritized, actionable findings
+🧠 AI-generated executive summaries
+💬 A natural-language manager assistant
+🔄 Weekly report automation + an n8n workflow demo
 
-A few things I was deliberate about:
-• The AI runs in a deterministic demo mode (no API key needed) and an optional
-live mode — and only aggregated metrics are ever sent to the model, never raw
-data.
-• Everything is modular, tested, and reproducible.
-• It's built entirely on **synthetic data**.
+It runs end-to-end on fully synthetic enterprise data — no real company, customer, invoice, vendor, employee, or personal information. The goal wasn't a production system, but a credible decision-support concept:
+data → KPIs → risk → dashboard → AI summary → assistant → automation.
 
-To be clear: this is a **professional prototype and portfolio project**, not a
-production deployment, and it makes no claims of real business outcomes. It's a
-demonstration of how AI-enabled process intelligence and executive
-decision-support could be designed.
+A few principles I cared about: clean, modular code; privacy-conscious AI (only aggregated context is sent to the model); and a demo mode that runs with no API key, so anyone can clone and try it.
 
-Tech: Python, Streamlit, pandas, Plotly, optional OpenAI, and an n8n automation
-demo.
+🛠️ Tech: Python, Streamlit, pandas, Plotly, optional OpenAI API, n8n
+🔗 Code: https://github.com/kara2758/enterprise-ai-control-tower
 
-I'd love feedback from people working in operations, analytics, digital
-transformation, and AI automation. 👇
+Feedback from people in operations, analytics, digital transformation, and AI automation is very welcome. 👇
 
-#ArtificialIntelligence #BusinessIntelligence #DataAnalytics #DecisionSupport
-#RiskManagement #ProcessAutomation #Python #Streamlit #n8n #DigitalTransformation
-#AIautomation #Portfolio
+#ArtificialIntelligence #AIAutomation #Python #Streamlit #DataAnalytics #DigitalTransformation #BusinessIntelligence #RiskManagement #WorkflowAutomation #PortfolioProject

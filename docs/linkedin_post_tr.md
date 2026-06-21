@@ -1,43 +1,30 @@
 # LinkedIn Gönderisi (Türkçe)
 
+> Ton: proje vitrini + kurumsal yapay zekâ / otomasyon yetkinliği (iş arama tonu değil).
+> İpucu: Erişim için gönderiye `screenshots/dashboard_overview.png` görselini ekle.
+
 ---
 
-🛡️ **Enterprise AI Control Tower** adında, yöneticilere yönelik bir karar destek
-prototipi geliştirdim — dağınık iş verilerini tek ve önceliklendirilmiş bir
-görünüme dönüştürüyor.
+🛡️ Gurur duyduğum bir portföy projesini tamamladım: Enterprise AI Control Tower.
 
-**Sorun:** Şirketlerin çoğunun sorunu veri eksikliği değil; verinin zamanında ve
-yorumlanmış bir görünümünün olmaması. Finans, müşteri destek ve onay süreçleri
-ayrı sistemlerde duruyor, raporlama geçmişe dönük kalıyor; vadesi geçmiş
-faturalar, ihlal edilen SLA'lar ve takılan onaylar gibi riskler çoğu zaman çok
-geç fark ediliyor.
+Çıkış noktası basit: çoğu şirketin sorunu veri eksikliği değil — dağınık veri, gecikmeli görünürlük, manuel raporlama ve zayıf erken uyarı sinyalleri.
 
-**Çözüm:** Tüm bunları (sentetik veri üzerinde) bir araya getiren modüler bir
-sistem:
+Bu prototip, yapay zekâ destekli bir "kontrol kulesinin" tüm bunları tek bir yönetici ekranında nasıl toplayabileceğini gösteriyor:
 
-📊 Yönetici KPI panosu (finans, destek, onaylar)
-🚨 Otomatik ve önceliklendirilmiş risk tespiti + önerilen aksiyonlar
-🧠 AI Yönetici Özeti — yönetime hazır bir brifing
-💬 AI Yönetici Asistanı — KPI ve riskler üzerinde doğal dilde soru-cevap
-🔄 n8n ile haftalık raporlama otomasyonu demosu
+📊 Finans, destek ve onay süreçleri genelinde KPI takibi
+🚨 Kural tabanlı risk tespiti — önceliklendirilmiş ve aksiyon alınabilir bulgular
+🧠 Yapay zekâ ile üretilen yönetici özetleri
+💬 Doğal dilde çalışan bir yönetici asistanı
+🔄 Haftalık rapor otomasyonu + n8n iş akışı demosu
 
-Özellikle dikkat ettiğim birkaç nokta:
-• Yapay zekâ hem deterministik bir demo modunda (API anahtarı gerekmeden) hem de
-opsiyonel canlı modda çalışıyor — ve modele yalnızca özetlenmiş metrikler
-gönderiliyor, ham veri asla gönderilmiyor.
-• Her şey modüler, test edilmiş ve tekrar üretilebilir.
-• Proje tamamen **sentetik veri** ile çalışıyor.
+Sistem tamamen sentetik kurumsal veriyle uçtan uca çalışıyor — hiçbir gerçek şirket, müşteri, fatura, tedarikçi, çalışan veya kişisel bilgi içermiyor. Amaç üretime hazır bir ürün değil; somut bir karar destek konseptini göstermekti:
+veri → KPI → risk → pano → yapay zekâ özeti → asistan → otomasyon.
 
-Net olmak gerekirse: bu bir **profesyonel prototip ve portföy projesi**, canlı
-bir kurumsal kurulum değil ve gerçek iş sonuçları üzerine hiçbir iddia
-içermiyor. Yapay zekâ destekli süreç zekâsı ve yönetici karar desteğinin nasıl
-tasarlanabileceğini gösteren bir örnek.
+Önemsediğim birkaç ilke: temiz ve modüler kod; gizliliğe duyarlı yapay zekâ (modele yalnızca özetlenmiş bağlam gönderiliyor, ham veri değil); ve API anahtarı olmadan çalışan bir demo modu — böylece isteyen klonlayıp deneyebiliyor.
 
-Teknolojiler: Python, Streamlit, pandas, Plotly, opsiyonel OpenAI ve bir n8n
-otomasyon demosu.
+🛠️ Teknolojiler: Python, Streamlit, pandas, Plotly, opsiyonel OpenAI API, n8n
+🔗 Kod: https://github.com/kara2758/enterprise-ai-control-tower
 
-Operasyon, analitik, dijital dönüşüm ve yapay zekâ otomasyonu alanlarında
-çalışanlardan geri bildirim almaktan memnuniyet duyarım. 👇
+Operasyon, analitik, dijital dönüşüm ve yapay zekâ otomasyonu alanlarında çalışanlardan geri bildirim almaktan memnuniyet duyarım. 👇
 
-#YapayZeka #İşZekası #VeriAnalitiği #KararDestek #RiskYönetimi #SüreçOtomasyonu
-#Python #Streamlit #n8n #DijitalDönüşüm #AIautomation #Portföy
+#YapayZeka #AIAutomation #Python #Streamlit #VeriAnalitiği #DijitalDönüşüm #İşZekası #RiskYönetimi #SüreçOtomasyonu #PortföyProjesi
