@@ -1,0 +1,201 @@
+request_id,request_type,department,requester,approver,requested_date,approval_deadline,approval_status,waiting_days,amount_usd,business_impact,bottleneck_flag
+REQ-30001,Vendor Onboarding,Procurement,Riley Haddad,Parker Walsh,2026-05-30,2026-06-02,Approved,2,93337.9,Low,False
+REQ-30002,Purchase Approval,IT,Noor Volkov,Marlowe Sullivan,2026-05-18,2026-05-23,Approved,5,48107.22,Low,False
+REQ-30003,Refund Approval,Finance,Taylor Ferreira,Cameron Tanaka,2026-06-08,2026-06-15,Approved,4,100961.41,Medium,False
+REQ-30004,Budget Request,Procurement,Logan Mendez,Cameron Schmidt,2026-05-21,2026-05-24,Pending,32,106614.94,High,True
+REQ-30005,Refund Approval,Operations,Drew Hughes,Morgan Murphy,2026-06-18,2026-06-23,Rejected,7,17918.1,Medium,False
+REQ-30006,Contract Review,HR,Alex Okafor,Harper Schmidt,2026-06-15,2026-06-20,Pending,7,175061.13,Medium,True
+REQ-30007,Vendor Onboarding,Operations,Taylor Carter,Avery Andersen,2026-06-14,2026-06-24,Approved,7,147672.99,Low,False
+REQ-30008,Refund Approval,IT,Rowan Schmidt,Marlowe Andersen,2026-06-01,2026-06-11,Pending,21,131324.22,High,True
+REQ-30009,Vendor Onboarding,Procurement,Avery Rossi,Cameron Okafor,2026-05-25,2026-06-04,Approved,2,179707.24,Medium,False
+REQ-30010,Purchase Approval,Customer Support,Drew Murphy,Riley Walsh,2026-06-13,2026-06-20,Approved,2,123916.73,Low,False
+REQ-30011,Refund Approval,IT,Quinn Ferreira,Riley Sullivan,2026-06-13,2026-06-18,Approved,0,198757.72,Medium,False
+REQ-30012,Vendor Onboarding,Operations,Parker Okafor,Morgan Carter,2026-06-20,2026-06-27,Rejected,2,74896.53,Medium,False
+REQ-30013,Budget Request,Customer Support,Devin Larsson,Blair Walsh,2026-05-22,2026-05-27,Rejected,5,31632.63,Critical,False
+REQ-30014,Contract Review,HR,Logan Larsson,Marlowe Foster,2026-05-23,2026-05-30,Rejected,9,133544.1,High,False
+REQ-30015,Refund Approval,Customer Support,Avery Tanaka,Cameron Hughes,2026-05-23,2026-05-26,Approved,4,23816.78,Low,False
+REQ-30016,Contract Review,Procurement,Jamie Carter,Taylor Dubois,2026-06-19,2026-06-24,Pending,3,44817.7,Critical,False
+REQ-30017,Budget Request,Finance,Hayden Ferreira,Reese Reyes,2026-06-17,2026-06-27,Approved,5,120832.79,Medium,False
+REQ-30018,Refund Approval,IT,Parker Hughes,Jamie Park,2026-05-26,2026-06-02,Approved,0,57287.75,Medium,False
+REQ-30019,Budget Request,HR,Harper Reyes,Rowan Mendez,2026-05-27,2026-06-06,Approved,12,145736.13,High,False
+REQ-30020,Purchase Approval,Customer Support,Reese Hughes,Alex Ibrahim,2026-06-13,2026-06-18,Approved,8,197334.35,Low,False
+REQ-30021,Refund Approval,Operations,Jamie Murphy,Reese Okafor,2026-06-05,2026-06-15,Approved,7,142194.28,High,False
+REQ-30022,Vendor Onboarding,IT,Parker Park,Logan Patel,2026-05-22,2026-05-25,Escalated,31,60747.58,Medium,True
+REQ-30023,Purchase Approval,Procurement,Harper Murphy,Sasha Walsh,2026-06-22,2026-06-27,Approved,7,25273.3,High,False
+REQ-30024,Refund Approval,Customer Support,Noor Ferreira,Rowan Rossi,2026-06-07,2026-06-10,Approved,2,98863.52,Critical,False
+REQ-30025,Vendor Onboarding,Finance,Cameron Andersen,Noor Volkov,2026-05-26,2026-06-02,Pending,27,95470.12,High,True
+REQ-30026,Purchase Approval,HR,Casey Ferreira,Riley Bennett,2026-06-06,2026-06-11,Pending,16,29654.36,Medium,True
+REQ-30027,Contract Review,Procurement,Devin Haddad,Taylor Andersen,2026-05-30,2026-06-09,Pending,23,191053.69,Low,True
+REQ-30028,Payment Approval,Procurement,Sam Schmidt,Drew Nguyen,2026-05-13,2026-05-18,Escalated,40,119953.12,Low,True
+REQ-30029,Refund Approval,Operations,Devin Okafor,Cameron Rossi,2026-05-30,2026-06-02,Pending,23,70650.06,Low,True
+REQ-30030,Budget Request,Customer Support,Emerson Walsh,Devin Dubois,2026-06-01,2026-06-06,Approved,2,100924.89,High,False
+REQ-30031,Refund Approval,Finance,Sasha Ferreira,Drew Walsh,2026-05-18,2026-05-21,Approved,0,23754.85,Low,False
+REQ-30032,Contract Review,Operations,Marlowe Okafor,Alex Park,2026-06-14,2026-06-24,Rejected,9,104862.66,Critical,False
+REQ-30033,Purchase Approval,Operations,Jamie Reyes,Taylor Ibrahim,2026-06-08,2026-06-13,Escalated,14,28900.69,Low,True
+REQ-30034,Refund Approval,Finance,Jordan Schmidt,Devin Volkov,2026-06-15,2026-06-18,Approved,3,151588.14,Low,False
+REQ-30035,Purchase Approval,Finance,Morgan Mendez,Jamie Volkov,2026-05-23,2026-05-26,Rejected,0,13716.35,High,False
+REQ-30036,Payment Approval,Customer Support,Cameron Ferreira,Riley Andersen,2026-06-11,2026-06-18,Approved,2,169249.37,Critical,False
+REQ-30037,Refund Approval,Finance,Devin Sullivan,Marlowe Sullivan,2026-05-14,2026-05-19,Pending,39,14133.24,High,True
+REQ-30038,Contract Review,HR,Sasha Ferreira,Marlowe Volkov,2026-06-12,2026-06-15,Rejected,0,184884.3,Critical,False
+REQ-30039,Payment Approval,Customer Support,Avery Ibrahim,Morgan Larsson,2026-05-25,2026-05-28,Approved,2,196269.57,Medium,False
+REQ-30040,Purchase Approval,Procurement,Parker Park,Jordan Hughes,2026-05-24,2026-05-27,Pending,29,99415.3,Medium,True
+REQ-30041,Contract Review,IT,Avery Dubois,Harper Okafor,2026-05-22,2026-05-25,Approved,3,120277.71,Medium,False
+REQ-30042,Budget Request,Operations,Alex Schmidt,Sasha Schmidt,2026-06-10,2026-06-13,Rejected,6,95397.52,High,False
+REQ-30043,Purchase Approval,IT,Reese Walsh,Rowan Foster,2026-05-28,2026-06-07,Pending,25,135465.47,Low,True
+REQ-30044,Refund Approval,IT,Morgan Patel,Harper Park,2026-06-12,2026-06-15,Approved,1,68057.01,Medium,False
+REQ-30045,Budget Request,Procurement,Sasha Schmidt,Emerson Kowalski,2026-06-05,2026-06-12,Escalated,17,160296.35,Critical,True
+REQ-30046,Budget Request,IT,Avery Haddad,Casey Carter,2026-05-21,2026-05-28,Approved,7,22053.32,Low,False
+REQ-30047,Purchase Approval,Customer Support,Hayden Larsson,Casey Okafor,2026-06-19,2026-06-22,Pending,3,5836.4,Low,False
+REQ-30048,Vendor Onboarding,IT,Logan Sullivan,Drew Schmidt,2026-05-14,2026-05-17,Escalated,39,132385.58,Medium,True
+REQ-30049,Budget Request,Finance,Jordan Ibrahim,Morgan Kowalski,2026-05-22,2026-05-29,Pending,31,161991.58,Medium,True
+REQ-30050,Budget Request,Procurement,Marlowe Murphy,Sasha Ibrahim,2026-06-02,2026-06-12,Approved,0,7055.53,Medium,False
+REQ-30051,Payment Approval,HR,Parker Schmidt,Parker Volkov,2026-06-03,2026-06-13,Pending,19,22321.71,High,True
+REQ-30052,Budget Request,IT,Emerson Schmidt,Cameron Okafor,2026-05-23,2026-05-28,Pending,30,78581.27,Medium,True
+REQ-30053,Contract Review,HR,Rowan Carter,Blair Larsson,2026-06-19,2026-06-22,Pending,3,26075.51,Medium,False
+REQ-30054,Budget Request,Operations,Avery Patel,Blair Okafor,2026-06-16,2026-06-26,Approved,5,82679.96,Low,False
+REQ-30055,Vendor Onboarding,Customer Support,Sam Bennett,Logan Schmidt,2026-06-17,2026-06-20,Escalated,5,23337.02,Low,False
+REQ-30056,Budget Request,Procurement,Reese Volkov,Reese Larsson,2026-05-17,2026-05-27,Approved,11,94205.13,Low,False
+REQ-30057,Vendor Onboarding,HR,Sam Murphy,Emerson Okafor,2026-06-16,2026-06-26,Approved,10,41578.71,Medium,False
+REQ-30058,Contract Review,Customer Support,Jamie Okafor,Quinn Bennett,2026-05-26,2026-05-31,Pending,27,169543.15,High,True
+REQ-30059,Contract Review,HR,Rowan Foster,Rowan Larsson,2026-05-17,2026-05-27,Escalated,36,125102.17,Critical,True
+REQ-30060,Contract Review,Procurement,Devin Okafor,Harper Schmidt,2026-06-18,2026-06-28,Approved,5,159232.52,High,False
+REQ-30061,Vendor Onboarding,Customer Support,Riley Carter,Blair Walsh,2026-06-02,2026-06-07,Approved,4,125180.29,Medium,False
+REQ-30062,Vendor Onboarding,HR,Parker Mendez,Harper Volkov,2026-06-11,2026-06-21,Approved,13,148570.5,Medium,False
+REQ-30063,Refund Approval,Operations,Noor Schmidt,Drew Ibrahim,2026-05-13,2026-05-16,Pending,40,73172.8,Low,True
+REQ-30064,Budget Request,Procurement,Blair Murphy,Quinn Schmidt,2026-06-02,2026-06-05,Pending,20,169270.41,Low,True
+REQ-30065,Vendor Onboarding,Procurement,Logan Rossi,Parker Ibrahim,2026-06-07,2026-06-17,Approved,2,38787.24,Low,False
+REQ-30066,Budget Request,Procurement,Hayden Dubois,Riley Haddad,2026-06-20,2026-06-25,Approved,2,6313.8,High,False
+REQ-30067,Purchase Approval,Finance,Harper Ferreira,Hayden Schmidt,2026-05-22,2026-05-25,Approved,0,63124.0,Low,False
+REQ-30068,Purchase Approval,Customer Support,Devin Nguyen,Sasha Hughes,2026-05-28,2026-06-02,Approved,8,186620.62,Medium,False
+REQ-30069,Payment Approval,HR,Reese Park,Noor Patel,2026-05-15,2026-05-18,Escalated,38,63025.36,High,True
+REQ-30070,Budget Request,Procurement,Rowan Bennett,Sasha Dubois,2026-06-09,2026-06-14,Approved,3,193999.73,Medium,False
+REQ-30071,Contract Review,Procurement,Casey Ferreira,Sasha Walsh,2026-06-15,2026-06-22,Pending,7,95233.4,Low,True
+REQ-30072,Contract Review,HR,Hayden Bennett,Marlowe Schmidt,2026-06-03,2026-06-06,Pending,19,181093.27,Low,True
+REQ-30073,Payment Approval,Finance,Parker Patel,Logan Kowalski,2026-06-06,2026-06-16,Approved,11,72889.59,High,False
+REQ-30074,Purchase Approval,Operations,Logan Haddad,Sam Haddad,2026-05-28,2026-06-04,Approved,3,59835.87,High,False
+REQ-30075,Budget Request,IT,Noor Ibrahim,Sam Walsh,2026-06-20,2026-06-27,Escalated,2,164727.96,Critical,False
+REQ-30076,Budget Request,Customer Support,Noor Dubois,Noor Larsson,2026-06-16,2026-06-21,Pending,6,101513.74,Medium,True
+REQ-30077,Budget Request,HR,Casey Carter,Reese Sullivan,2026-06-21,2026-06-24,Pending,1,37156.05,Medium,False
+REQ-30078,Refund Approval,HR,Blair Reyes,Emerson Schmidt,2026-06-03,2026-06-10,Pending,19,22610.23,Low,True
+REQ-30079,Budget Request,HR,Rowan Larsson,Drew Sullivan,2026-06-02,2026-06-12,Pending,20,147166.84,Low,True
+REQ-30080,Purchase Approval,Operations,Alex Carter,Parker Haddad,2026-05-27,2026-06-03,Approved,6,188979.05,High,False
+REQ-30081,Vendor Onboarding,Operations,Jordan Kowalski,Emerson Ibrahim,2026-05-13,2026-05-18,Rejected,7,40054.11,High,False
+REQ-30082,Vendor Onboarding,Finance,Marlowe Andersen,Harper Tanaka,2026-06-06,2026-06-11,Approved,5,34439.52,Medium,False
+REQ-30083,Refund Approval,Procurement,Drew Park,Sasha Kowalski,2026-05-22,2026-05-25,Approved,1,38513.56,High,False
+REQ-30084,Payment Approval,HR,Jamie Ibrahim,Riley Ibrahim,2026-05-26,2026-05-31,Pending,27,199043.89,Low,True
+REQ-30085,Payment Approval,Procurement,Rowan Schmidt,Blair Tanaka,2026-06-21,2026-06-28,Rejected,3,123727.21,Critical,False
+REQ-30086,Purchase Approval,Operations,Marlowe Kowalski,Marlowe Ibrahim,2026-06-22,2026-07-02,Approved,5,194892.64,Medium,False
+REQ-30087,Refund Approval,Operations,Sasha Ferreira,Emerson Schmidt,2026-05-15,2026-05-22,Approved,8,12221.09,Medium,False
+REQ-30088,Vendor Onboarding,HR,Cameron Reyes,Parker Bennett,2026-06-20,2026-06-23,Approved,4,76497.07,Critical,False
+REQ-30089,Vendor Onboarding,Operations,Taylor Larsson,Marlowe Andersen,2026-06-11,2026-06-18,Approved,7,186100.22,High,False
+REQ-30090,Budget Request,Procurement,Noor Ferreira,Harper Okafor,2026-06-13,2026-06-20,Approved,0,195714.06,Medium,False
+REQ-30091,Contract Review,HR,Sasha Reyes,Parker Schmidt,2026-05-14,2026-05-21,Pending,39,87437.19,Low,True
+REQ-30092,Refund Approval,Procurement,Riley Walsh,Logan Ibrahim,2026-05-25,2026-05-28,Approved,0,46357.18,Low,False
+REQ-30093,Purchase Approval,Finance,Noor Reyes,Morgan Ferreira,2026-05-22,2026-05-25,Approved,5,112390.48,Medium,False
+REQ-30094,Purchase Approval,Customer Support,Hayden Volkov,Jamie Volkov,2026-06-09,2026-06-16,Approved,2,150112.36,High,False
+REQ-30095,Purchase Approval,Finance,Sam Carter,Drew Schmidt,2026-05-20,2026-05-25,Approved,1,49608.41,Medium,False
+REQ-30096,Refund Approval,Finance,Logan Walsh,Hayden Rossi,2026-06-15,2026-06-25,Approved,1,167476.95,Low,False
+REQ-30097,Budget Request,HR,Emerson Tanaka,Sam Park,2026-05-13,2026-05-20,Pending,40,1658.17,Critical,True
+REQ-30098,Refund Approval,Finance,Noor Hughes,Parker Mendez,2026-05-17,2026-05-22,Approved,0,160410.81,Low,False
+REQ-30099,Budget Request,Finance,Alex Sullivan,Riley Kowalski,2026-06-17,2026-06-27,Approved,3,193027.34,High,False
+REQ-30100,Budget Request,Procurement,Hayden Mendez,Casey Ferreira,2026-06-04,2026-06-09,Approved,7,160319.53,High,False
+REQ-30101,Refund Approval,IT,Quinn Volkov,Emerson Ibrahim,2026-06-16,2026-06-23,Pending,6,98179.8,High,True
+REQ-30102,Purchase Approval,Finance,Devin Larsson,Logan Schmidt,2026-05-26,2026-06-02,Pending,27,87104.13,Medium,True
+REQ-30103,Payment Approval,IT,Harper Hughes,Sasha Okafor,2026-06-13,2026-06-23,Pending,9,129621.47,Low,True
+REQ-30104,Payment Approval,Finance,Parker Hughes,Jordan Andersen,2026-06-14,2026-06-21,Escalated,8,104856.87,Low,True
+REQ-30105,Purchase Approval,Procurement,Cameron Nguyen,Rowan Hughes,2026-05-21,2026-05-31,Approved,7,132340.62,Medium,False
+REQ-30106,Vendor Onboarding,IT,Jordan Hughes,Harper Walsh,2026-06-21,2026-06-24,Pending,1,92844.35,High,False
+REQ-30107,Contract Review,Procurement,Riley Sullivan,Riley Hughes,2026-06-02,2026-06-12,Escalated,20,90264.61,High,True
+REQ-30108,Refund Approval,Finance,Reese Foster,Alex Murphy,2026-05-15,2026-05-22,Escalated,38,21712.97,Medium,True
+REQ-30109,Refund Approval,Customer Support,Noor Rossi,Drew Mendez,2026-05-23,2026-06-02,Pending,30,173821.71,Critical,True
+REQ-30110,Vendor Onboarding,Operations,Morgan Carter,Marlowe Sullivan,2026-05-30,2026-06-09,Escalated,23,17983.21,Low,True
+REQ-30111,Purchase Approval,HR,Parker Sullivan,Taylor Okafor,2026-06-09,2026-06-19,Pending,13,130123.1,Medium,True
+REQ-30112,Budget Request,HR,Logan Rossi,Sasha Carter,2026-06-13,2026-06-23,Approved,1,33638.05,Low,False
+REQ-30113,Budget Request,HR,Marlowe Ibrahim,Harper Rossi,2026-05-16,2026-05-21,Approved,6,10658.97,Low,False
+REQ-30114,Refund Approval,Customer Support,Hayden Rossi,Avery Walsh,2026-05-16,2026-05-23,Approved,6,97477.14,Medium,False
+REQ-30115,Purchase Approval,HR,Harper Rossi,Morgan Rossi,2026-05-20,2026-05-23,Approved,2,110874.51,Low,False
+REQ-30116,Vendor Onboarding,Operations,Sasha Ferreira,Logan Patel,2026-05-31,2026-06-10,Pending,22,4650.98,Low,True
+REQ-30117,Vendor Onboarding,HR,Marlowe Kowalski,Harper Schmidt,2026-06-08,2026-06-15,Rejected,10,93959.22,High,False
+REQ-30118,Refund Approval,Procurement,Marlowe Park,Taylor Schmidt,2026-05-30,2026-06-09,Escalated,23,168983.99,Medium,True
+REQ-30119,Budget Request,IT,Drew Patel,Jamie Dubois,2026-06-14,2026-06-19,Approved,7,20630.29,Medium,False
+REQ-30120,Purchase Approval,Customer Support,Jordan Hughes,Sam Ibrahim,2026-06-21,2026-06-28,Rejected,5,135547.11,Low,False
+REQ-30121,Purchase Approval,Procurement,Jordan Dubois,Quinn Reyes,2026-05-14,2026-05-19,Approved,3,97529.88,Critical,False
+REQ-30122,Refund Approval,IT,Morgan Foster,Emerson Mendez,2026-05-21,2026-05-24,Pending,32,185363.1,Medium,True
+REQ-30123,Purchase Approval,Operations,Cameron Murphy,Noor Okafor,2026-05-18,2026-05-21,Pending,35,33825.74,Low,True
+REQ-30124,Refund Approval,Procurement,Casey Foster,Jamie Tanaka,2026-05-25,2026-06-04,Pending,28,20309.2,Medium,True
+REQ-30125,Budget Request,Operations,Taylor Nguyen,Cameron Walsh,2026-06-22,2026-06-27,Escalated,0,94995.83,Low,False
+REQ-30126,Budget Request,IT,Harper Ibrahim,Logan Andersen,2026-05-30,2026-06-04,Approved,8,84633.58,Low,False
+REQ-30127,Refund Approval,Finance,Taylor Larsson,Sam Kowalski,2026-05-30,2026-06-02,Approved,6,2484.77,High,False
+REQ-30128,Payment Approval,Customer Support,Jordan Haddad,Marlowe Schmidt,2026-05-26,2026-05-29,Approved,0,132205.15,Medium,False
+REQ-30129,Vendor Onboarding,HR,Noor Larsson,Cameron Carter,2026-06-04,2026-06-14,Approved,10,140307.68,High,False
+REQ-30130,Contract Review,Customer Support,Emerson Mendez,Blair Tanaka,2026-05-20,2026-05-25,Pending,33,89514.72,Low,True
+REQ-30131,Refund Approval,Customer Support,Sam Kowalski,Noor Park,2026-05-31,2026-06-10,Escalated,22,176254.45,Low,True
+REQ-30132,Refund Approval,HR,Riley Carter,Alex Dubois,2026-06-14,2026-06-21,Approved,8,110581.28,Medium,False
+REQ-30133,Vendor Onboarding,Customer Support,Morgan Park,Jordan Ferreira,2026-06-06,2026-06-11,Escalated,16,61136.45,Medium,True
+REQ-30134,Contract Review,Customer Support,Noor Carter,Logan Larsson,2026-05-13,2026-05-20,Approved,10,188297.94,Medium,False
+REQ-30135,Payment Approval,Customer Support,Hayden Reyes,Marlowe Kowalski,2026-05-16,2026-05-21,Approved,4,133551.01,High,False
+REQ-30136,Vendor Onboarding,IT,Morgan Reyes,Marlowe Ibrahim,2026-06-07,2026-06-10,Approved,4,38914.77,High,False
+REQ-30137,Budget Request,Procurement,Hayden Andersen,Reese Volkov,2026-06-17,2026-06-20,Approved,1,95512.49,Medium,False
+REQ-30138,Vendor Onboarding,IT,Marlowe Rossi,Noor Ibrahim,2026-05-20,2026-05-30,Escalated,33,117068.6,Medium,True
+REQ-30139,Payment Approval,Customer Support,Devin Foster,Marlowe Sullivan,2026-06-13,2026-06-18,Pending,9,91813.7,Critical,True
+REQ-30140,Budget Request,Finance,Emerson Ibrahim,Morgan Foster,2026-05-23,2026-05-26,Pending,30,188841.88,Medium,True
+REQ-30141,Contract Review,Procurement,Drew Okafor,Sasha Carter,2026-05-17,2026-05-24,Approved,2,23989.57,Medium,False
+REQ-30142,Payment Approval,HR,Sasha Carter,Morgan Dubois,2026-06-13,2026-06-23,Approved,4,177866.91,Low,False
+REQ-30143,Contract Review,Procurement,Reese Rossi,Noor Mendez,2026-06-18,2026-06-21,Approved,4,62285.52,Medium,False
+REQ-30144,Payment Approval,HR,Sam Hughes,Emerson Schmidt,2026-06-14,2026-06-24,Escalated,8,133610.54,Low,True
+REQ-30145,Vendor Onboarding,HR,Logan Park,Quinn Haddad,2026-05-27,2026-06-06,Approved,6,68130.08,Low,False
+REQ-30146,Purchase Approval,Customer Support,Blair Foster,Blair Dubois,2026-06-12,2026-06-15,Pending,10,159333.68,High,True
+REQ-30147,Purchase Approval,Finance,Morgan Schmidt,Parker Murphy,2026-06-10,2026-06-13,Rejected,4,38284.48,Medium,False
+REQ-30148,Purchase Approval,Procurement,Reese Volkov,Jordan Rossi,2026-06-05,2026-06-10,Approved,7,17387.26,Medium,False
+REQ-30149,Purchase Approval,Procurement,Taylor Foster,Morgan Dubois,2026-06-01,2026-06-11,Approved,0,171999.86,Medium,False
+REQ-30150,Payment Approval,HR,Riley Bennett,Emerson Larsson,2026-06-04,2026-06-09,Approved,1,31268.36,Critical,False
+REQ-30151,Payment Approval,Procurement,Quinn Kowalski,Morgan Bennett,2026-06-21,2026-06-24,Approved,0,64348.27,Medium,False
+REQ-30152,Payment Approval,Finance,Quinn Bennett,Sam Tanaka,2026-06-07,2026-06-12,Pending,15,150601.8,Medium,True
+REQ-30153,Vendor Onboarding,Finance,Quinn Dubois,Rowan Schmidt,2026-05-27,2026-05-30,Pending,26,81795.01,Low,True
+REQ-30154,Purchase Approval,Customer Support,Jamie Reyes,Cameron Dubois,2026-06-07,2026-06-12,Approved,6,89473.46,High,False
+REQ-30155,Payment Approval,IT,Emerson Okafor,Blair Murphy,2026-06-07,2026-06-17,Rejected,8,90622.53,Low,False
+REQ-30156,Purchase Approval,Procurement,Blair Sullivan,Rowan Andersen,2026-06-19,2026-06-29,Approved,4,167977.8,Medium,False
+REQ-30157,Contract Review,IT,Marlowe Foster,Casey Park,2026-06-20,2026-06-25,Pending,2,112834.77,Medium,False
+REQ-30158,Vendor Onboarding,HR,Sam Haddad,Quinn Walsh,2026-06-05,2026-06-15,Approved,8,191504.73,Medium,False
+REQ-30159,Budget Request,Customer Support,Sam Carter,Marlowe Reyes,2026-06-05,2026-06-10,Pending,17,64666.83,Low,True
+REQ-30160,Refund Approval,HR,Marlowe Rossi,Reese Dubois,2026-06-22,2026-07-02,Approved,0,134704.93,Medium,False
+REQ-30161,Purchase Approval,Procurement,Reese Mendez,Cameron Kowalski,2026-06-18,2026-06-21,Rejected,6,134486.81,High,False
+REQ-30162,Payment Approval,Operations,Noor Carter,Quinn Schmidt,2026-06-22,2026-06-25,Pending,0,187281.45,Medium,False
+REQ-30163,Refund Approval,IT,Cameron Bennett,Quinn Rossi,2026-05-31,2026-06-05,Approved,4,161778.69,Low,False
+REQ-30164,Refund Approval,Customer Support,Sasha Murphy,Parker Sullivan,2026-05-15,2026-05-20,Approved,6,22633.83,Low,False
+REQ-30165,Refund Approval,Customer Support,Avery Andersen,Noor Nguyen,2026-05-17,2026-05-22,Approved,2,149321.7,Low,False
+REQ-30166,Payment Approval,IT,Blair Schmidt,Blair Bennett,2026-06-21,2026-06-28,Pending,1,176678.84,Low,False
+REQ-30167,Contract Review,Customer Support,Jordan Park,Avery Bennett,2026-05-26,2026-06-05,Approved,10,103899.91,Medium,False
+REQ-30168,Contract Review,Customer Support,Alex Park,Avery Walsh,2026-05-27,2026-06-06,Approved,6,39324.32,Low,False
+REQ-30169,Budget Request,Finance,Alex Rossi,Harper Carter,2026-06-18,2026-06-23,Approved,5,62505.77,Medium,False
+REQ-30170,Vendor Onboarding,Procurement,Jordan Larsson,Devin Patel,2026-05-13,2026-05-20,Escalated,40,49807.14,Medium,True
+REQ-30171,Purchase Approval,Finance,Jordan Bennett,Reese Larsson,2026-05-15,2026-05-25,Escalated,38,125257.08,Medium,True
+REQ-30172,Refund Approval,IT,Taylor Foster,Hayden Bennett,2026-06-18,2026-06-23,Approved,7,11430.37,Medium,False
+REQ-30173,Vendor Onboarding,IT,Avery Mendez,Hayden Mendez,2026-06-19,2026-06-26,Escalated,3,80635.77,Medium,False
+REQ-30174,Purchase Approval,Finance,Sam Haddad,Hayden Carter,2026-05-24,2026-06-03,Pending,29,85907.1,Medium,True
+REQ-30175,Budget Request,HR,Taylor Volkov,Jamie Volkov,2026-05-20,2026-05-27,Pending,33,22047.31,Low,True
+REQ-30176,Payment Approval,Operations,Casey Bennett,Jordan Reyes,2026-05-13,2026-05-20,Approved,7,145062.3,Medium,False
+REQ-30177,Contract Review,Customer Support,Parker Reyes,Casey Rossi,2026-05-16,2026-05-26,Pending,37,130515.14,Medium,True
+REQ-30178,Contract Review,Operations,Jordan Patel,Devin Dubois,2026-05-15,2026-05-22,Approved,0,103777.28,High,False
+REQ-30179,Purchase Approval,Finance,Sam Sullivan,Hayden Rossi,2026-05-26,2026-06-02,Approved,3,128290.68,Low,False
+REQ-30180,Refund Approval,Procurement,Harper Larsson,Riley Foster,2026-05-24,2026-05-31,Escalated,29,113436.33,Medium,True
+REQ-30181,Budget Request,IT,Emerson Sullivan,Avery Rossi,2026-06-20,2026-06-30,Approved,0,127934.03,High,False
+REQ-30182,Refund Approval,Finance,Taylor Ferreira,Alex Dubois,2026-06-01,2026-06-11,Approved,2,165303.82,Low,False
+REQ-30183,Purchase Approval,Finance,Alex Sullivan,Jamie Okafor,2026-06-13,2026-06-20,Approved,10,117344.44,High,False
+REQ-30184,Payment Approval,Operations,Jamie Carter,Riley Nguyen,2026-06-08,2026-06-15,Pending,14,68293.59,Medium,True
+REQ-30185,Purchase Approval,IT,Avery Ferreira,Cameron Schmidt,2026-06-21,2026-06-26,Approved,1,68007.46,Low,False
+REQ-30186,Payment Approval,Operations,Jamie Sullivan,Parker Kowalski,2026-05-20,2026-05-30,Escalated,33,13542.82,Low,True
+REQ-30187,Refund Approval,Finance,Emerson Volkov,Jamie Dubois,2026-05-30,2026-06-06,Pending,23,195407.82,Low,True
+REQ-30188,Contract Review,Customer Support,Rowan Rossi,Jamie Park,2026-06-13,2026-06-20,Approved,10,159224.58,High,False
+REQ-30189,Purchase Approval,Customer Support,Cameron Rossi,Devin Tanaka,2026-05-23,2026-05-26,Approved,3,150385.95,Medium,False
+REQ-30190,Payment Approval,IT,Quinn Volkov,Reese Haddad,2026-06-02,2026-06-09,Pending,20,96917.76,Critical,True
+REQ-30191,Vendor Onboarding,Operations,Drew Ibrahim,Reese Volkov,2026-06-20,2026-06-25,Approved,3,90689.97,Low,False
+REQ-30192,Payment Approval,IT,Devin Ferreira,Avery Volkov,2026-05-30,2026-06-06,Pending,23,27298.9,Low,True
+REQ-30193,Purchase Approval,IT,Sam Nguyen,Reese Carter,2026-05-24,2026-05-31,Approved,7,86784.88,Medium,False
+REQ-30194,Payment Approval,Customer Support,Devin Dubois,Blair Hughes,2026-05-25,2026-05-30,Approved,1,72139.04,Low,False
+REQ-30195,Contract Review,Operations,Hayden Larsson,Quinn Okafor,2026-06-08,2026-06-11,Approved,2,8137.14,Low,False
+REQ-30196,Refund Approval,HR,Noor Dubois,Quinn Carter,2026-06-05,2026-06-10,Pending,17,199600.14,Critical,True
+REQ-30197,Contract Review,Customer Support,Blair Carter,Sasha Haddad,2026-06-04,2026-06-11,Escalated,18,81060.32,Medium,True
+REQ-30198,Vendor Onboarding,Customer Support,Rowan Dubois,Logan Park,2026-06-13,2026-06-23,Approved,11,149952.85,Medium,False
+REQ-30199,Budget Request,IT,Jamie Tanaka,Logan Dubois,2026-06-01,2026-06-04,Approved,1,86044.2,Critical,False
+REQ-30200,Purchase Approval,Finance,Sasha Schmidt,Cameron Larsson,2026-05-30,2026-06-04,Pending,23,26104.96,Critical,True

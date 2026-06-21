@@ -1,0 +1,281 @@
+invoice_id,vendor_name,department,invoice_date,due_date,amount_usd,currency,approval_status,payment_status,assigned_approver,days_overdue,invoice_category,priority_level
+INV-10001,Globex Consulting,Finance,2026-03-19,2026-04-18,7052.47,USD,Pending,Unpaid,Jordan Carter,65,Consulting,Medium
+INV-10002,Stark Industrial Parts,Operations,2026-04-18,2026-06-17,89767.53,USD,Approved,Paid,Alex Murphy,0,Travel,Medium
+INV-10003,Vandelay Imports,Procurement,2026-06-02,2026-07-02,16658.98,USD,Approved,Unpaid,Jordan Park,0,Hardware,Medium
+INV-10004,Oscorp Materials,Finance,2026-02-23,2026-04-09,108635.66,USD,Under Review,Unpaid,Taylor Bennett,74,Logistics,Low
+INV-10005,Hooli Analytics,Finance,2026-03-04,2026-04-03,18781.15,USD,Under Review,Unpaid,Hayden Nguyen,80,Consulting,Medium
+INV-10006,Prestige Worldwide Travel,HR,2026-05-31,2026-07-30,8215.87,USD,Rejected,On Hold,Parker Patel,0,Utilities,Medium
+INV-10007,Northwind Logistics,Operations,2026-03-08,2026-03-23,19806.78,USD,Under Review,Unpaid,Jamie Haddad,91,Hardware,High
+INV-10008,Cyberdyne Security,HR,2026-04-24,2026-05-24,12273.09,USD,Approved,Paid,Reese Ferreira,0,Logistics,High
+INV-10009,Initech Software,Customer Support,2026-04-19,2026-05-04,42228.77,USD,Approved,Unpaid,Reese Kowalski,49,Professional Services,Medium
+INV-10010,Gekko Financial Tools,Customer Support,2026-05-20,2026-07-19,190590.25,USD,Pending,Unpaid,Blair Larsson,0,Consulting,High
+INV-10011,Hooli Analytics,IT,2026-06-01,2026-07-16,194418.41,USD,Rejected,On Hold,Devin Foster,0,Marketing,High
+INV-10012,Massive Dynamic Labs,Customer Support,2026-05-27,2026-06-26,8125.52,GBP,Rejected,On Hold,Emerson Larsson,0,Hardware,Critical
+INV-10013,Acme Office Supplies,Finance,2026-02-23,2026-03-25,40793.69,USD,Approved,Partially Paid,Taylor Park,89,Hardware,Critical
+INV-10014,BlueSky Cloud Services,Customer Support,2026-03-15,2026-04-14,145056.48,USD,Approved,Partially Paid,Jamie Dubois,69,Logistics,Medium
+INV-10015,Hooli Analytics,IT,2026-03-28,2026-04-27,25481.82,USD,Approved,Paid,Avery Volkov,0,Logistics,Medium
+INV-10016,Acme Office Supplies,Finance,2026-03-23,2026-04-07,44389.23,EUR,Approved,Paid,Jamie Dubois,0,Office Supplies,Medium
+INV-10017,Nakatomi Property Mgmt,Customer Support,2026-04-22,2026-05-22,39615.48,USD,Approved,Paid,Logan Park,0,Software,Medium
+INV-10018,Globex Consulting,Finance,2026-05-01,2026-05-31,5576.87,USD,Approved,Paid,Logan Patel,0,Consulting,Low
+INV-10019,Gekko Financial Tools,Customer Support,2026-06-09,2026-06-24,26603.66,USD,Approved,Unpaid,Harper Rossi,0,Hardware,Low
+INV-10020,Stark Industrial Parts,IT,2026-02-26,2026-03-13,355.07,USD,Rejected,On Hold,Drew Ibrahim,101,Facilities,High
+INV-10021,Tyrell Hardware,Operations,2026-05-28,2026-06-27,3101.06,USD,Approved,Paid,Sasha Andersen,0,Facilities,Low
+INV-10022,Umbrella Facilities,Finance,2026-04-17,2026-05-02,3590.41,USD,Under Review,Unpaid,Rowan Patel,51,Professional Services,Critical
+INV-10023,Prestige Worldwide Travel,Finance,2026-04-03,2026-04-18,28704.02,USD,Rejected,On Hold,Marlowe Larsson,65,Logistics,Low
+INV-10024,Soylent Catering,IT,2026-06-05,2026-07-05,45539.64,GBP,Approved,Unpaid,Morgan Hughes,0,Facilities,Medium
+INV-10025,Stark Industrial Parts,Customer Support,2026-05-19,2026-06-18,43192.13,EUR,Approved,Paid,Marlowe Okafor,0,Professional Services,High
+INV-10026,Massive Dynamic Labs,Finance,2026-03-28,2026-05-27,32590.2,GBP,Approved,Paid,Parker Reyes,0,Marketing,Low
+INV-10027,Hooli Analytics,Customer Support,2026-05-26,2026-06-25,31169.1,USD,Approved,Partially Paid,Taylor Haddad,0,Travel,High
+INV-10028,Soylent Catering,Finance,2026-06-21,2026-07-21,31309.28,USD,Pending,Unpaid,Alex Foster,0,Consulting,Medium
+INV-10029,Initech Software,Customer Support,2026-06-17,2026-07-17,7469.57,USD,Approved,Partially Paid,Jordan Ferreira,0,Logistics,High
+INV-10030,Wayne Marketing Group,HR,2026-06-08,2026-07-08,43351.57,USD,Pending,Unpaid,Riley Murphy,0,Travel,Critical
+INV-10031,Acme Office Supplies,Operations,2026-03-19,2026-04-18,20321.02,USD,Pending,Unpaid,Marlowe Foster,65,Travel,Low
+INV-10032,Northwind Logistics,IT,2026-05-24,2026-06-23,22689.78,USD,Pending,Unpaid,Jamie Kowalski,0,Utilities,Low
+INV-10033,Soylent Catering,Finance,2026-03-15,2026-04-14,25083.53,USD,Under Review,Unpaid,Quinn Murphy,69,Professional Services,Low
+INV-10034,Soylent Catering,Finance,2026-06-08,2026-08-07,134004.82,USD,Pending,Unpaid,Rowan Sullivan,0,Marketing,High
+INV-10035,Northwind Logistics,HR,2026-04-27,2026-05-12,39567.4,USD,Rejected,On Hold,Jamie Ferreira,41,Travel,High
+INV-10036,BlueSky Cloud Services,HR,2026-02-24,2026-03-26,32590.14,USD,Under Review,Unpaid,Sam Kowalski,88,Marketing,Medium
+INV-10037,Oscorp Materials,Operations,2026-05-28,2026-07-12,18733.33,USD,Approved,Paid,Alex Okafor,0,Marketing,Medium
+INV-10038,Stark Industrial Parts,IT,2026-03-13,2026-05-12,15959.65,USD,Pending,Unpaid,Noor Murphy,41,Consulting,High
+INV-10039,Hooli Analytics,Customer Support,2026-03-29,2026-05-28,40148.14,USD,Pending,Unpaid,Alex Bennett,25,Logistics,Low
+INV-10040,Tyrell Hardware,Customer Support,2026-03-05,2026-03-20,43449.17,USD,Pending,Unpaid,Casey Haddad,94,Software,Medium
+INV-10041,Globex Consulting,IT,2026-05-24,2026-06-23,34175.7,USD,Pending,Partially Paid,Casey Tanaka,0,Facilities,Low
+INV-10042,Oscorp Materials,Customer Support,2026-05-12,2026-06-26,35314.61,USD,Under Review,Unpaid,Noor Rossi,0,Hardware,High
+INV-10043,Soylent Catering,Operations,2026-03-06,2026-04-05,25663.37,USD,Approved,Paid,Quinn Larsson,0,Utilities,Low
+INV-10044,Oscorp Materials,Finance,2026-06-04,2026-07-04,34080.05,USD,Approved,Paid,Harper Bennett,0,Logistics,Medium
+INV-10045,Wonka Maintenance,IT,2026-02-26,2026-04-27,1202.18,EUR,Pending,Unpaid,Drew Kowalski,56,Travel,Critical
+INV-10046,Oscorp Materials,HR,2026-03-19,2026-05-18,44018.3,USD,Approved,Paid,Hayden Schmidt,0,Travel,Medium
+INV-10047,Umbrella Facilities,IT,2026-02-24,2026-03-26,26288.53,EUR,Pending,Unpaid,Harper Reyes,88,Hardware,Low
+INV-10048,Umbrella Facilities,Finance,2026-05-19,2026-07-03,22416.59,USD,Under Review,Unpaid,Harper Nguyen,0,Consulting,Critical
+INV-10049,Tyrell Hardware,Finance,2026-03-18,2026-05-17,240383.94,USD,Approved,On Hold,Alex Patel,36,Logistics,Low
+INV-10050,Acme Office Supplies,Customer Support,2026-06-02,2026-07-02,183891.77,USD,Approved,Unpaid,Riley Mendez,0,Professional Services,High
+INV-10051,Globex Consulting,Operations,2026-05-13,2026-05-28,45533.25,USD,Under Review,Unpaid,Jamie Hughes,25,Professional Services,Critical
+INV-10052,Wayne Marketing Group,Finance,2026-03-24,2026-04-23,29520.07,USD,Rejected,On Hold,Cameron Dubois,60,Travel,High
+INV-10053,Pied Piper Hosting,Finance,2026-04-18,2026-05-18,134011.75,USD,Approved,Paid,Logan Walsh,0,Office Supplies,High
+INV-10054,Wonka Maintenance,Operations,2026-03-20,2026-05-19,13416.52,EUR,Approved,Paid,Noor Volkov,0,Marketing,Medium
+INV-10055,Vandelay Imports,Operations,2026-03-07,2026-03-22,22226.6,USD,Pending,Unpaid,Sasha Larsson,92,Office Supplies,Medium
+INV-10056,Tyrell Hardware,Operations,2026-05-07,2026-06-06,43165.6,USD,Approved,Paid,Taylor Patel,0,Travel,Critical
+INV-10057,Tyrell Hardware,Customer Support,2026-03-16,2026-04-15,31737.77,USD,Pending,Unpaid,Marlowe Patel,68,Marketing,Low
+INV-10058,Nakatomi Property Mgmt,Procurement,2026-04-22,2026-06-21,20993.31,USD,Approved,Unpaid,Quinn Patel,1,Consulting,Low
+INV-10059,Stark Industrial Parts,Procurement,2026-06-06,2026-08-05,33895.47,USD,Pending,Unpaid,Devin Mendez,0,Marketing,Medium
+INV-10060,Globex Consulting,Operations,2026-05-15,2026-06-14,14985.54,USD,Approved,Paid,Drew Walsh,0,Office Supplies,Low
+INV-10061,Tyrell Hardware,Finance,2026-03-02,2026-03-17,23133.1,USD,Approved,Paid,Sasha Foster,0,Consulting,Critical
+INV-10062,Cyberdyne Security,IT,2026-06-12,2026-08-11,2863.44,USD,Pending,Unpaid,Morgan Dubois,0,Travel,Critical
+INV-10063,Prestige Worldwide Travel,Customer Support,2026-03-12,2026-05-11,25725.41,USD,Approved,Partially Paid,Drew Volkov,42,Professional Services,Critical
+INV-10064,Northwind Logistics,Customer Support,2026-03-19,2026-04-03,10379.66,USD,Pending,Unpaid,Taylor Murphy,80,Software,Low
+INV-10065,Wonka Maintenance,IT,2026-03-25,2026-05-24,1841.19,USD,Approved,Partially Paid,Avery Nguyen,29,Professional Services,Low
+INV-10066,Stark Industrial Parts,IT,2026-06-07,2026-08-06,7513.23,USD,Approved,Paid,Emerson Park,0,Professional Services,High
+INV-10067,Hooli Analytics,IT,2026-06-06,2026-07-21,34362.02,GBP,Approved,Paid,Jordan Ibrahim,0,Utilities,Low
+INV-10068,Prestige Worldwide Travel,Procurement,2026-06-18,2026-07-03,33122.05,EUR,Pending,Unpaid,Quinn Volkov,0,Software,High
+INV-10069,Umbrella Facilities,IT,2026-04-16,2026-05-31,9097.6,USD,Pending,Unpaid,Cameron Ibrahim,22,Utilities,Low
+INV-10070,Vandelay Imports,HR,2026-06-08,2026-07-08,34066.59,USD,Rejected,On Hold,Parker Bennett,0,Hardware,High
+INV-10071,BlueSky Cloud Services,Procurement,2026-05-20,2026-06-19,204509.59,EUR,Under Review,Unpaid,Logan Ibrahim,3,Software,High
+INV-10072,Stark Industrial Parts,Customer Support,2026-05-06,2026-07-05,30738.68,USD,Approved,Paid,Logan Walsh,0,Hardware,Critical
+INV-10073,Globex Consulting,Finance,2026-04-02,2026-06-01,34851.91,USD,Approved,Paid,Morgan Tanaka,0,Consulting,Low
+INV-10074,Initech Software,IT,2026-02-22,2026-03-24,13579.46,EUR,Rejected,On Hold,Parker Reyes,90,Travel,Low
+INV-10075,Stark Industrial Parts,Customer Support,2026-04-17,2026-05-17,13717.06,USD,Approved,Partially Paid,Alex Okafor,36,Marketing,Medium
+INV-10076,Nakatomi Property Mgmt,Customer Support,2026-03-29,2026-05-13,22019.19,USD,Approved,Unpaid,Sam Sullivan,40,Logistics,Medium
+INV-10077,Nakatomi Property Mgmt,IT,2026-05-23,2026-07-07,198941.03,USD,Under Review,Unpaid,Blair Reyes,0,Hardware,Medium
+INV-10078,Northwind Logistics,Operations,2026-04-18,2026-06-17,5142.77,EUR,Approved,Partially Paid,Casey Ibrahim,5,Office Supplies,Low
+INV-10079,BlueSky Cloud Services,IT,2026-03-13,2026-04-12,34019.35,USD,Under Review,On Hold,Reese Larsson,71,Hardware,High
+INV-10080,Oscorp Materials,Finance,2026-04-03,2026-04-18,33614.48,USD,Approved,Paid,Blair Walsh,0,Consulting,Critical
+INV-10081,Gekko Financial Tools,Operations,2026-03-25,2026-04-24,2492.06,USD,Approved,Paid,Devin Ibrahim,0,Professional Services,Low
+INV-10082,Umbrella Facilities,Operations,2026-05-30,2026-06-14,18899.03,USD,Approved,Paid,Blair Nguyen,0,Hardware,Low
+INV-10083,Soylent Catering,HR,2026-06-20,2026-08-04,33283.53,USD,Approved,Paid,Blair Ibrahim,0,Marketing,Medium
+INV-10084,Gekko Financial Tools,Procurement,2026-05-27,2026-07-11,5449.35,USD,Approved,Paid,Alex Schmidt,0,Travel,Medium
+INV-10085,Soylent Catering,Finance,2026-04-10,2026-04-25,36577.14,EUR,Under Review,On Hold,Cameron Patel,58,Logistics,Low
+INV-10086,Prestige Worldwide Travel,Procurement,2026-03-27,2026-04-26,44290.93,USD,Approved,Paid,Noor Reyes,0,Consulting,Medium
+INV-10087,Hooli Analytics,Procurement,2026-03-18,2026-05-02,6692.79,USD,Rejected,On Hold,Quinn Murphy,51,Marketing,Medium
+INV-10088,Tyrell Hardware,Procurement,2026-03-18,2026-04-17,23081.16,USD,Pending,Unpaid,Hayden Kowalski,66,Facilities,Medium
+INV-10089,Pied Piper Hosting,Finance,2026-03-12,2026-04-26,157314.46,USD,Pending,Unpaid,Blair Ferreira,57,Consulting,Medium
+INV-10090,Wayne Marketing Group,IT,2026-06-18,2026-08-17,27618.61,EUR,Approved,Paid,Marlowe Okafor,0,Travel,High
+INV-10091,Globex Consulting,Operations,2026-06-16,2026-07-01,24265.45,USD,Under Review,Unpaid,Hayden Park,0,Facilities,Medium
+INV-10092,Wonka Maintenance,Customer Support,2026-03-18,2026-04-17,32177.44,EUR,Pending,Partially Paid,Marlowe Ferreira,66,Logistics,Low
+INV-10093,Gekko Financial Tools,IT,2026-05-22,2026-06-21,187136.05,USD,Rejected,On Hold,Reese Nguyen,1,Logistics,Medium
+INV-10094,Globex Consulting,IT,2026-06-10,2026-07-10,29360.87,USD,Pending,Unpaid,Rowan Sullivan,0,Consulting,Low
+INV-10095,Oscorp Materials,Operations,2026-04-07,2026-05-07,11608.69,USD,Pending,Unpaid,Casey Reyes,46,Facilities,Low
+INV-10096,Soylent Catering,Operations,2026-06-07,2026-06-22,121648.46,USD,Pending,Unpaid,Casey Park,0,Travel,Low
+INV-10097,Massive Dynamic Labs,Finance,2026-03-18,2026-04-02,38178.33,USD,Approved,Paid,Jordan Park,0,Facilities,Critical
+INV-10098,Hooli Analytics,IT,2026-03-31,2026-04-15,145796.38,USD,Pending,Unpaid,Taylor Hughes,68,Utilities,Critical
+INV-10099,Prestige Worldwide Travel,Operations,2026-06-13,2026-07-13,31112.49,USD,Approved,On Hold,Logan Andersen,0,Professional Services,Medium
+INV-10100,Wonka Maintenance,Finance,2026-03-12,2026-03-27,31982.19,USD,Pending,Unpaid,Avery Ibrahim,87,Utilities,Medium
+INV-10101,Gekko Financial Tools,IT,2026-04-29,2026-05-14,15485.52,USD,Rejected,On Hold,Sasha Hughes,39,Consulting,Medium
+INV-10102,BlueSky Cloud Services,Finance,2026-04-27,2026-05-12,18416.53,USD,Approved,On Hold,Hayden Foster,41,Travel,Medium
+INV-10103,Pied Piper Hosting,HR,2026-03-17,2026-05-01,35401.71,GBP,Pending,Unpaid,Jamie Reyes,52,Hardware,Medium
+INV-10104,Wayne Marketing Group,Finance,2026-05-08,2026-07-07,37427.02,USD,Under Review,On Hold,Emerson Mendez,0,Facilities,Critical
+INV-10105,Acme Office Supplies,Customer Support,2026-02-23,2026-03-25,104654.08,USD,Rejected,On Hold,Riley Reyes,89,Professional Services,Medium
+INV-10106,Cyberdyne Security,Finance,2026-06-03,2026-06-18,156096.54,USD,Approved,Paid,Sam Volkov,0,Professional Services,Medium
+INV-10107,BlueSky Cloud Services,Finance,2026-06-02,2026-07-02,2675.92,USD,Approved,Paid,Harper Nguyen,0,Logistics,Medium
+INV-10108,Massive Dynamic Labs,Finance,2026-05-08,2026-06-22,185643.58,USD,Approved,Paid,Emerson Bennett,0,Software,Low
+INV-10109,Stark Industrial Parts,Procurement,2026-05-25,2026-06-24,155392.16,USD,Pending,Unpaid,Parker Walsh,0,Logistics,High
+INV-10110,Massive Dynamic Labs,Customer Support,2026-03-07,2026-04-06,222352.87,USD,Approved,Partially Paid,Rowan Ibrahim,77,Professional Services,High
+INV-10111,Cyberdyne Security,HR,2026-04-01,2026-05-16,19995.32,GBP,Approved,Partially Paid,Marlowe Ferreira,37,Consulting,Medium
+INV-10112,Wonka Maintenance,Finance,2026-05-21,2026-07-05,25793.17,USD,Approved,Paid,Riley Hughes,0,Facilities,Medium
+INV-10113,Globex Consulting,Customer Support,2026-04-17,2026-05-17,17282.04,USD,Under Review,On Hold,Casey Nguyen,36,Logistics,Low
+INV-10114,Umbrella Facilities,Customer Support,2026-06-02,2026-06-17,37926.34,USD,Pending,On Hold,Rowan Haddad,5,Professional Services,Medium
+INV-10115,Vandelay Imports,HR,2026-05-12,2026-06-11,23109.9,USD,Pending,Unpaid,Taylor Okafor,11,Hardware,Medium
+INV-10116,Gekko Financial Tools,Finance,2026-06-14,2026-07-14,3990.64,EUR,Under Review,Unpaid,Logan Volkov,0,Facilities,Medium
+INV-10117,Northwind Logistics,IT,2026-02-25,2026-04-26,15924.43,USD,Approved,Paid,Sam Walsh,0,Consulting,Low
+INV-10118,Massive Dynamic Labs,HR,2026-05-30,2026-06-14,21590.72,USD,Approved,Paid,Drew Kowalski,0,Travel,Medium
+INV-10119,Vandelay Imports,HR,2026-04-06,2026-04-21,31806.14,USD,Approved,Unpaid,Noor Schmidt,62,Professional Services,Low
+INV-10120,Initech Software,Procurement,2026-06-11,2026-08-10,44941.39,USD,Pending,Unpaid,Marlowe Hughes,0,Marketing,Low
+INV-10121,Oscorp Materials,IT,2026-03-31,2026-04-30,32918.17,EUR,Pending,Unpaid,Blair Schmidt,53,Travel,Medium
+INV-10122,Massive Dynamic Labs,Procurement,2026-06-19,2026-07-19,46619.5,USD,Pending,Unpaid,Casey Hughes,0,Marketing,Critical
+INV-10123,Globex Consulting,Customer Support,2026-03-15,2026-05-14,43329.51,USD,Approved,Unpaid,Reese Reyes,39,Office Supplies,Low
+INV-10124,Umbrella Facilities,HR,2026-03-15,2026-05-14,8320.03,USD,Approved,Unpaid,Logan Mendez,39,Marketing,Low
+INV-10125,Gekko Financial Tools,Operations,2026-04-14,2026-05-14,39670.41,USD,Under Review,Unpaid,Logan Tanaka,39,Marketing,Critical
+INV-10126,Cyberdyne Security,Customer Support,2026-04-15,2026-05-30,40073.45,EUR,Approved,Paid,Cameron Dubois,0,Consulting,Medium
+INV-10127,Massive Dynamic Labs,Finance,2026-05-16,2026-05-31,13548.58,EUR,Approved,Paid,Avery Tanaka,0,Utilities,Critical
+INV-10128,Acme Office Supplies,IT,2026-06-15,2026-07-30,11744.18,GBP,Approved,Paid,Marlowe Haddad,0,Utilities,Critical
+INV-10129,Initech Software,Operations,2026-06-17,2026-07-17,23282.18,EUR,Pending,Unpaid,Taylor Carter,0,Marketing,Medium
+INV-10130,Stark Industrial Parts,Operations,2026-04-12,2026-06-11,5670.36,USD,Approved,Paid,Emerson Tanaka,0,Consulting,Medium
+INV-10131,Globex Consulting,IT,2026-04-06,2026-06-05,153075.15,USD,Approved,Paid,Avery Volkov,0,Travel,Medium
+INV-10132,Umbrella Facilities,HR,2026-03-28,2026-04-12,17829.43,GBP,Approved,Unpaid,Alex Kowalski,71,Hardware,Medium
+INV-10133,Northwind Logistics,HR,2026-05-03,2026-06-02,1041.81,USD,Approved,Unpaid,Rowan Park,20,Utilities,Medium
+INV-10134,Initech Software,Finance,2026-05-07,2026-07-06,31586.29,EUR,Pending,Partially Paid,Riley Reyes,0,Consulting,Medium
+INV-10135,Gekko Financial Tools,Finance,2026-05-15,2026-06-14,89893.97,USD,Rejected,On Hold,Parker Rossi,8,Marketing,Medium
+INV-10136,Northwind Logistics,HR,2026-05-28,2026-06-27,38316.03,EUR,Approved,Paid,Reese Park,0,Hardware,Medium
+INV-10137,Cyberdyne Security,Procurement,2026-05-29,2026-07-13,18158.16,USD,Approved,Paid,Harper Mendez,0,Office Supplies,Medium
+INV-10138,Oscorp Materials,Procurement,2026-05-11,2026-05-26,182183.84,USD,Pending,Unpaid,Cameron Tanaka,27,Software,Medium
+INV-10139,Pied Piper Hosting,Customer Support,2026-04-27,2026-05-27,38834.54,USD,Pending,Unpaid,Noor Schmidt,26,Office Supplies,Medium
+INV-10140,Acme Office Supplies,Operations,2026-03-05,2026-05-04,21610.93,USD,Approved,Unpaid,Rowan Bennett,49,Professional Services,Medium
+INV-10141,Initech Software,HR,2026-04-25,2026-05-25,37450.37,USD,Approved,Paid,Avery Foster,0,Software,Medium
+INV-10142,Umbrella Facilities,IT,2026-04-16,2026-05-31,5990.85,USD,Pending,Unpaid,Marlowe Rossi,22,Logistics,Medium
+INV-10143,Globex Consulting,Operations,2026-03-04,2026-03-19,44060.6,USD,Approved,Unpaid,Sam Schmidt,95,Utilities,High
+INV-10144,BlueSky Cloud Services,Customer Support,2026-04-13,2026-05-13,41753.9,USD,Rejected,On Hold,Cameron Andersen,40,Logistics,Medium
+INV-10145,Globex Consulting,Operations,2026-03-12,2026-04-11,24333.57,USD,Pending,Unpaid,Casey Mendez,72,Consulting,Critical
+INV-10146,BlueSky Cloud Services,Procurement,2026-05-02,2026-06-16,37746.77,EUR,Approved,On Hold,Logan Tanaka,6,Facilities,Medium
+INV-10147,Pied Piper Hosting,Operations,2026-03-01,2026-04-30,104371.49,GBP,Pending,Unpaid,Morgan Andersen,53,Office Supplies,High
+INV-10148,Hooli Analytics,Operations,2026-06-01,2026-07-01,11241.68,GBP,Approved,Paid,Jamie Haddad,0,Facilities,Low
+INV-10149,Soylent Catering,Operations,2026-04-02,2026-05-02,4804.63,USD,Pending,Unpaid,Emerson Park,51,Professional Services,Low
+INV-10150,Vandelay Imports,Customer Support,2026-06-16,2026-07-01,239709.37,USD,Approved,Paid,Emerson Haddad,0,Software,Medium
+INV-10151,Tyrell Hardware,HR,2026-04-13,2026-05-13,14977.09,USD,Under Review,Unpaid,Marlowe Bennett,40,Office Supplies,Medium
+INV-10152,Gekko Financial Tools,IT,2026-04-21,2026-06-05,29824.69,USD,Pending,On Hold,Reese Reyes,17,Utilities,High
+INV-10153,Massive Dynamic Labs,Customer Support,2026-06-08,2026-07-08,6222.94,USD,Approved,Paid,Emerson Ibrahim,0,Logistics,Critical
+INV-10154,Umbrella Facilities,Procurement,2026-02-22,2026-04-23,9504.41,USD,Rejected,On Hold,Drew Rossi,60,Software,Medium
+INV-10155,BlueSky Cloud Services,IT,2026-04-18,2026-06-02,81872.85,USD,Pending,Unpaid,Blair Schmidt,0,Hardware,High
+INV-10156,Hooli Analytics,Customer Support,2026-06-20,2026-07-05,43269.72,USD,Pending,Unpaid,Rowan Dubois,0,Logistics,Medium
+INV-10157,Pied Piper Hosting,Customer Support,2026-05-16,2026-05-31,22204.78,USD,Under Review,Unpaid,Casey Foster,22,Travel,Medium
+INV-10158,Pied Piper Hosting,Procurement,2026-04-11,2026-05-11,9954.07,USD,Approved,Paid,Sam Rossi,0,Facilities,Low
+INV-10159,Gekko Financial Tools,Operations,2026-04-05,2026-06-04,236273.75,USD,Approved,Unpaid,Rowan Larsson,18,Facilities,High
+INV-10160,Massive Dynamic Labs,Customer Support,2026-04-20,2026-06-19,40017.76,USD,Pending,Partially Paid,Noor Walsh,3,Software,Medium
+INV-10161,Prestige Worldwide Travel,IT,2026-05-19,2026-07-18,35418.26,USD,Approved,Unpaid,Reese Reyes,0,Logistics,Medium
+INV-10162,Northwind Logistics,Customer Support,2026-03-24,2026-04-08,21750.63,USD,Approved,Paid,Emerson Rossi,0,Software,Medium
+INV-10163,Initech Software,Customer Support,2026-05-26,2026-07-25,32533.56,USD,Approved,Paid,Sam Dubois,0,Utilities,Critical
+INV-10164,Soylent Catering,Customer Support,2026-04-21,2026-05-21,13851.56,USD,Rejected,On Hold,Drew Walsh,32,Logistics,Critical
+INV-10165,Tyrell Hardware,Procurement,2026-04-21,2026-05-21,45806.16,USD,Approved,Paid,Reese Ferreira,0,Office Supplies,Medium
+INV-10166,Hooli Analytics,Finance,2026-05-16,2026-05-31,21815.84,USD,Approved,Paid,Parker Walsh,0,Marketing,Medium
+INV-10167,Initech Software,Finance,2026-04-04,2026-06-03,2724.81,EUR,Approved,Paid,Sam Walsh,0,Hardware,Low
+INV-10168,Globex Consulting,HR,2026-03-15,2026-04-14,160070.51,GBP,Approved,Partially Paid,Sasha Haddad,69,Logistics,High
+INV-10169,Hooli Analytics,Procurement,2026-05-16,2026-05-31,4611.21,USD,Approved,Unpaid,Riley Ibrahim,22,Office Supplies,Critical
+INV-10170,Northwind Logistics,IT,2026-03-13,2026-04-27,36763.91,EUR,Approved,Paid,Emerson Foster,0,Utilities,Low
+INV-10171,Hooli Analytics,IT,2026-03-31,2026-05-30,43601.42,USD,Approved,Paid,Sam Murphy,0,Hardware,High
+INV-10172,Soylent Catering,HR,2026-05-29,2026-06-13,38799.92,USD,Pending,Unpaid,Reese Ibrahim,9,Facilities,High
+INV-10173,Vandelay Imports,Finance,2026-05-01,2026-05-16,7104.83,USD,Approved,Paid,Quinn Larsson,0,Marketing,Low
+INV-10174,Nakatomi Property Mgmt,HR,2026-04-09,2026-04-24,17778.16,USD,Pending,Unpaid,Hayden Andersen,59,Marketing,Low
+INV-10175,Globex Consulting,HR,2026-02-24,2026-03-26,11016.4,GBP,Approved,Paid,Cameron Ibrahim,0,Facilities,Critical
+INV-10176,Tyrell Hardware,Customer Support,2026-03-11,2026-04-10,33416.67,USD,Pending,Unpaid,Cameron Hughes,73,Professional Services,Medium
+INV-10177,Globex Consulting,Finance,2026-03-07,2026-05-06,10105.14,USD,Approved,Partially Paid,Hayden Sullivan,47,Professional Services,Medium
+INV-10178,Tyrell Hardware,Finance,2026-02-26,2026-04-27,2962.25,USD,Approved,Paid,Hayden Okafor,0,Software,Medium
+INV-10179,Cyberdyne Security,Procurement,2026-03-09,2026-03-24,28442.67,USD,Approved,Paid,Taylor Rossi,0,Software,Critical
+INV-10180,Hooli Analytics,IT,2026-05-29,2026-06-28,47943.75,USD,Approved,On Hold,Reese Kowalski,0,Consulting,Medium
+INV-10181,Oscorp Materials,Operations,2026-03-30,2026-04-29,248569.36,USD,Approved,On Hold,Alex Okafor,54,Hardware,High
+INV-10182,Oscorp Materials,IT,2026-04-14,2026-05-29,12316.21,USD,Approved,Partially Paid,Morgan Bennett,24,Travel,High
+INV-10183,Prestige Worldwide Travel,Finance,2026-05-22,2026-06-21,168788.83,USD,Pending,On Hold,Jordan Kowalski,1,Hardware,Low
+INV-10184,Wayne Marketing Group,Customer Support,2026-05-25,2026-06-09,248696.69,USD,Under Review,Unpaid,Hayden Larsson,13,Logistics,Medium
+INV-10185,Hooli Analytics,Operations,2026-03-29,2026-05-28,14899.42,USD,Rejected,On Hold,Riley Haddad,25,Travel,High
+INV-10186,Oscorp Materials,IT,2026-06-15,2026-07-15,32977.95,USD,Approved,Paid,Reese Murphy,0,Facilities,Low
+INV-10187,Tyrell Hardware,Operations,2026-03-05,2026-04-04,34744.37,EUR,Under Review,Unpaid,Parker Andersen,79,Office Supplies,Critical
+INV-10188,Cyberdyne Security,Operations,2026-05-20,2026-06-19,4104.68,USD,Approved,Paid,Jordan Nguyen,0,Travel,High
+INV-10189,Prestige Worldwide Travel,Customer Support,2026-06-16,2026-07-01,37382.7,USD,Pending,Unpaid,Sam Okafor,0,Software,High
+INV-10190,Stark Industrial Parts,Operations,2026-03-19,2026-04-03,37023.62,EUR,Pending,On Hold,Avery Dubois,80,Utilities,Medium
+INV-10191,Hooli Analytics,IT,2026-04-23,2026-06-22,15285.59,USD,Under Review,Unpaid,Noor Rossi,0,Utilities,High
+INV-10192,Stark Industrial Parts,Procurement,2026-05-12,2026-06-26,222816.97,USD,Approved,Paid,Noor Ibrahim,0,Marketing,Medium
+INV-10193,Initech Software,Operations,2026-05-10,2026-06-09,40876.43,USD,Pending,Unpaid,Sasha Park,13,Hardware,Low
+INV-10194,Gekko Financial Tools,Operations,2026-03-20,2026-04-19,35365.28,USD,Under Review,Unpaid,Jordan Andersen,64,Software,Medium
+INV-10195,BlueSky Cloud Services,HR,2026-06-15,2026-06-30,41324.05,USD,Pending,Unpaid,Cameron Bennett,0,Professional Services,Medium
+INV-10196,Prestige Worldwide Travel,IT,2026-03-29,2026-05-13,156442.5,USD,Approved,Unpaid,Drew Carter,40,Facilities,Medium
+INV-10197,Wonka Maintenance,Operations,2026-06-08,2026-06-23,11997.23,USD,Approved,Paid,Taylor Ferreira,0,Travel,High
+INV-10198,Gekko Financial Tools,Customer Support,2026-05-21,2026-06-20,40618.03,USD,Rejected,On Hold,Jordan Hughes,2,Travel,Medium
+INV-10199,Cyberdyne Security,IT,2026-04-12,2026-05-27,51890.03,USD,Approved,Paid,Rowan Foster,0,Facilities,High
+INV-10200,Northwind Logistics,Operations,2026-05-25,2026-07-24,2519.9,USD,Rejected,On Hold,Rowan Schmidt,0,Software,High
+INV-10201,Umbrella Facilities,Procurement,2026-06-19,2026-07-19,36922.41,USD,Approved,Paid,Avery Volkov,0,Travel,Low
+INV-10202,Oscorp Materials,Procurement,2026-05-03,2026-06-02,33853.89,USD,Pending,Unpaid,Avery Hughes,20,Utilities,Low
+INV-10203,Prestige Worldwide Travel,Customer Support,2026-04-06,2026-05-21,16160.86,USD,Pending,Unpaid,Parker Kowalski,32,Travel,Low
+INV-10204,Umbrella Facilities,HR,2026-04-08,2026-05-23,272518.25,USD,Pending,Unpaid,Marlowe Haddad,30,Office Supplies,High
+INV-10205,Cyberdyne Security,Procurement,2026-05-06,2026-05-21,238592.05,USD,Pending,Unpaid,Harper Tanaka,32,Facilities,Low
+INV-10206,Oscorp Materials,Customer Support,2026-04-30,2026-05-15,120782.86,USD,Pending,Unpaid,Drew Ibrahim,38,Travel,Medium
+INV-10207,BlueSky Cloud Services,HR,2026-02-26,2026-04-27,47935.94,USD,Approved,Paid,Drew Nguyen,0,Hardware,Low
+INV-10208,Initech Software,Finance,2026-05-31,2026-07-15,14862.92,USD,Approved,Partially Paid,Sasha Mendez,0,Professional Services,High
+INV-10209,Stark Industrial Parts,IT,2026-06-08,2026-07-08,46505.14,USD,Pending,On Hold,Sam Ibrahim,0,Professional Services,Medium
+INV-10210,Initech Software,Procurement,2026-05-11,2026-07-10,10041.51,USD,Rejected,On Hold,Drew Park,0,Hardware,Critical
+INV-10211,Nakatomi Property Mgmt,Operations,2026-05-11,2026-06-25,38560.99,USD,Rejected,On Hold,Parker Murphy,0,Facilities,Low
+INV-10212,Acme Office Supplies,HR,2026-04-23,2026-05-23,14452.4,USD,Under Review,On Hold,Sasha Reyes,30,Marketing,Medium
+INV-10213,Wayne Marketing Group,Procurement,2026-03-29,2026-04-28,38717.49,USD,Rejected,On Hold,Reese Dubois,55,Facilities,Medium
+INV-10214,Wonka Maintenance,Customer Support,2026-06-17,2026-07-17,39849.48,USD,Under Review,Unpaid,Hayden Ferreira,0,Office Supplies,Low
+INV-10215,Prestige Worldwide Travel,Finance,2026-04-10,2026-05-25,16415.34,USD,Approved,Paid,Noor Andersen,0,Facilities,Low
+INV-10216,Nakatomi Property Mgmt,HR,2026-04-09,2026-05-09,19317.79,USD,Pending,Unpaid,Alex Rossi,44,Consulting,Medium
+INV-10217,Hooli Analytics,IT,2026-02-24,2026-03-11,238135.23,USD,Approved,Paid,Sasha Ferreira,0,Hardware,Low
+INV-10218,Globex Consulting,IT,2026-03-21,2026-05-05,14887.87,EUR,Approved,Unpaid,Hayden Murphy,48,Logistics,Medium
+INV-10219,Massive Dynamic Labs,Operations,2026-04-12,2026-05-12,21035.51,USD,Pending,Unpaid,Hayden Ibrahim,41,Travel,Low
+INV-10220,Acme Office Supplies,HR,2026-04-04,2026-05-04,21190.7,USD,Approved,Paid,Taylor Volkov,0,Consulting,High
+INV-10221,Oscorp Materials,Operations,2026-05-06,2026-06-05,5805.3,USD,Approved,On Hold,Reese Mendez,17,Travel,Medium
+INV-10222,Nakatomi Property Mgmt,Finance,2026-05-08,2026-06-07,30346.43,EUR,Pending,Unpaid,Taylor Schmidt,15,Office Supplies,Medium
+INV-10223,Vandelay Imports,Finance,2026-05-22,2026-06-21,124661.21,USD,Approved,Paid,Harper Murphy,0,Hardware,Medium
+INV-10224,Oscorp Materials,HR,2026-02-24,2026-03-26,24120.05,USD,Approved,Paid,Cameron Carter,0,Hardware,Low
+INV-10225,Initech Software,Operations,2026-03-09,2026-04-23,24890.1,USD,Pending,Unpaid,Sasha Murphy,60,Consulting,High
+INV-10226,Nakatomi Property Mgmt,Finance,2026-03-12,2026-04-11,13649.08,USD,Approved,Paid,Sasha Dubois,0,Facilities,High
+INV-10227,Globex Consulting,Customer Support,2026-06-07,2026-07-07,40385.04,USD,Under Review,Unpaid,Parker Sullivan,0,Travel,High
+INV-10228,Globex Consulting,HR,2026-03-07,2026-04-06,48966.49,USD,Approved,Unpaid,Morgan Patel,77,Logistics,Medium
+INV-10229,Nakatomi Property Mgmt,HR,2026-05-08,2026-07-07,8341.6,USD,Approved,Paid,Cameron Dubois,0,Marketing,Low
+INV-10230,Prestige Worldwide Travel,Customer Support,2026-05-31,2026-06-30,14515.94,USD,Rejected,On Hold,Hayden Foster,0,Office Supplies,Medium
+INV-10231,Wonka Maintenance,Finance,2026-05-17,2026-06-16,6718.68,USD,Approved,Paid,Reese Rossi,0,Office Supplies,High
+INV-10232,Nakatomi Property Mgmt,HR,2026-05-18,2026-07-02,3931.42,USD,Pending,Unpaid,Marlowe Ferreira,0,Hardware,High
+INV-10233,Tyrell Hardware,Procurement,2026-04-08,2026-04-23,41549.41,USD,Rejected,On Hold,Marlowe Ferreira,60,Consulting,Medium
+INV-10234,Oscorp Materials,IT,2026-05-25,2026-07-09,24367.35,USD,Approved,Paid,Sasha Larsson,0,Software,Low
+INV-10235,Northwind Logistics,Finance,2026-04-02,2026-05-17,235886.58,USD,Approved,On Hold,Marlowe Reyes,36,Marketing,Medium
+INV-10236,Umbrella Facilities,Procurement,2026-06-10,2026-07-10,18377.38,EUR,Approved,Paid,Marlowe Patel,0,Travel,Medium
+INV-10237,BlueSky Cloud Services,HR,2026-06-09,2026-06-24,4049.51,USD,Approved,Paid,Sam Foster,0,Travel,Low
+INV-10238,Initech Software,IT,2026-06-12,2026-07-12,35874.71,USD,Approved,Partially Paid,Casey Haddad,0,Office Supplies,Low
+INV-10239,BlueSky Cloud Services,Customer Support,2026-04-10,2026-04-25,8250.68,USD,Approved,Unpaid,Emerson Schmidt,58,Hardware,Critical
+INV-10240,Stark Industrial Parts,Finance,2026-02-27,2026-03-14,74631.44,USD,Approved,Paid,Avery Nguyen,0,Consulting,High
+INV-10241,Wayne Marketing Group,Customer Support,2026-04-06,2026-06-05,177383.23,GBP,Pending,Unpaid,Jamie Andersen,17,Professional Services,High
+INV-10242,Massive Dynamic Labs,Operations,2026-03-18,2026-05-02,2910.25,EUR,Rejected,On Hold,Morgan Patel,51,Hardware,Medium
+INV-10243,Prestige Worldwide Travel,Finance,2026-04-15,2026-04-30,45778.81,USD,Under Review,Unpaid,Hayden Murphy,53,Hardware,Medium
+INV-10244,BlueSky Cloud Services,Finance,2026-04-07,2026-04-22,93148.59,GBP,Rejected,On Hold,Drew Haddad,61,Facilities,Medium
+INV-10245,Wonka Maintenance,IT,2026-03-24,2026-05-08,157312.96,USD,Approved,Paid,Jamie Reyes,0,Facilities,Medium
+INV-10246,Vandelay Imports,IT,2026-04-07,2026-04-22,21577.44,GBP,Approved,Paid,Morgan Tanaka,0,Professional Services,Critical
+INV-10247,Prestige Worldwide Travel,Finance,2026-05-13,2026-06-12,191580.12,USD,Approved,On Hold,Noor Nguyen,10,Office Supplies,Medium
+INV-10248,Pied Piper Hosting,Operations,2026-03-18,2026-04-17,6005.27,EUR,Approved,Paid,Quinn Walsh,0,Professional Services,Medium
+INV-10249,BlueSky Cloud Services,IT,2026-04-24,2026-06-23,24605.99,USD,Approved,Paid,Rowan Schmidt,0,Consulting,Low
+INV-10250,Wayne Marketing Group,HR,2026-04-17,2026-05-02,222585.7,USD,Approved,Paid,Jordan Dubois,0,Travel,Low
+INV-10251,Wayne Marketing Group,Procurement,2026-05-21,2026-07-05,15846.84,EUR,Pending,Unpaid,Jordan Murphy,0,Logistics,Medium
+INV-10252,Massive Dynamic Labs,Finance,2026-05-01,2026-05-16,42469.07,USD,Approved,Paid,Cameron Sullivan,0,Marketing,Medium
+INV-10253,Nakatomi Property Mgmt,Procurement,2026-03-19,2026-05-18,18203.34,GBP,Rejected,On Hold,Noor Dubois,35,Logistics,High
+INV-10254,Initech Software,Finance,2026-02-22,2026-04-08,158309.04,USD,Pending,Unpaid,Hayden Kowalski,75,Marketing,Medium
+INV-10255,Globex Consulting,Operations,2026-04-15,2026-05-15,47107.77,GBP,Approved,Paid,Avery Andersen,0,Travel,Low
+INV-10256,Pied Piper Hosting,IT,2026-03-18,2026-04-02,24889.6,USD,Approved,Paid,Hayden Reyes,0,Logistics,Low
+INV-10257,Hooli Analytics,Procurement,2026-03-05,2026-04-04,19406.44,EUR,Approved,Paid,Jamie Reyes,0,Professional Services,Low
+INV-10258,Globex Consulting,Operations,2026-06-08,2026-07-08,15559.12,USD,Approved,Unpaid,Logan Nguyen,0,Consulting,Medium
+INV-10259,BlueSky Cloud Services,Operations,2026-03-10,2026-04-09,34222.8,USD,Under Review,Unpaid,Avery Ferreira,74,Travel,Low
+INV-10260,Massive Dynamic Labs,Finance,2026-03-27,2026-04-26,218649.61,USD,Pending,Unpaid,Avery Foster,0,Hardware,High
+INV-10261,Globex Consulting,Operations,2026-06-06,2026-06-21,206192.0,USD,Approved,Paid,Blair Hughes,0,Professional Services,Medium
+INV-10262,Nakatomi Property Mgmt,Procurement,2026-02-24,2026-03-11,62894.41,EUR,Approved,Paid,Sam Foster,0,Software,Critical
+INV-10263,Gekko Financial Tools,Finance,2026-05-31,2026-07-30,35566.0,USD,Approved,Paid,Riley Nguyen,0,Marketing,Medium
+INV-10264,Gekko Financial Tools,Operations,2026-06-17,2026-08-16,12232.01,USD,Approved,Paid,Quinn Kowalski,0,Office Supplies,Low
+INV-10265,Wonka Maintenance,Operations,2026-03-31,2026-05-30,48711.75,USD,Approved,Paid,Sasha Dubois,0,Hardware,High
+INV-10266,Pied Piper Hosting,Customer Support,2026-04-18,2026-05-18,9016.02,USD,Approved,Partially Paid,Jordan Rossi,35,Facilities,High
+INV-10267,Pied Piper Hosting,Customer Support,2026-05-23,2026-06-22,181372.88,USD,Under Review,Partially Paid,Avery Volkov,0,Travel,Low
+INV-10268,Pied Piper Hosting,Operations,2026-05-30,2026-06-29,39552.75,USD,Under Review,Unpaid,Rowan Volkov,0,Office Supplies,High
+INV-10269,Nakatomi Property Mgmt,Operations,2026-03-06,2026-04-20,8808.39,USD,Approved,Unpaid,Sasha Carter,63,Utilities,Low
+INV-10270,Prestige Worldwide Travel,Operations,2026-03-10,2026-04-09,8901.17,EUR,Under Review,Unpaid,Marlowe Reyes,74,Consulting,Low
+INV-10271,Massive Dynamic Labs,Procurement,2026-06-12,2026-07-12,32529.3,USD,Approved,Paid,Noor Ibrahim,0,Hardware,Critical
+INV-10272,Vandelay Imports,Operations,2026-03-23,2026-05-22,45531.2,USD,Approved,Paid,Drew Park,0,Marketing,Low
+INV-10273,Initech Software,Operations,2026-03-20,2026-04-04,46499.04,USD,Rejected,On Hold,Jordan Murphy,79,Professional Services,Critical
+INV-10274,Vandelay Imports,Customer Support,2026-05-24,2026-07-23,149237.01,USD,Approved,Paid,Blair Hughes,0,Utilities,Medium
+INV-10275,Gekko Financial Tools,Finance,2026-05-19,2026-06-18,3555.0,USD,Approved,Paid,Noor Ibrahim,0,Office Supplies,Medium
+INV-10276,Wonka Maintenance,IT,2026-03-01,2026-04-15,18548.19,EUR,Pending,Unpaid,Avery Murphy,68,Hardware,High
+INV-10277,BlueSky Cloud Services,Finance,2026-05-15,2026-05-30,46643.53,USD,Approved,Paid,Parker Hughes,0,Utilities,High
+INV-10278,Prestige Worldwide Travel,Customer Support,2026-02-27,2026-04-13,21277.01,USD,Pending,Unpaid,Sam Sullivan,70,Logistics,Low
+INV-10279,Wonka Maintenance,HR,2026-04-12,2026-06-11,13974.25,USD,Approved,Paid,Casey Bennett,0,Utilities,High
+INV-10280,Acme Office Supplies,IT,2026-06-10,2026-07-10,30723.18,USD,Approved,Paid,Taylor Rossi,0,Consulting,Medium

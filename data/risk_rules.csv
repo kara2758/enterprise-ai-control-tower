@@ -1,0 +1,7 @@
+rule_id,rule_name,data_source,condition_description,risk_level,recommended_action
+R-001,Overdue Invoice,invoices.csv,days_overdue > 7,High,Escalate to Finance for immediate payment review.
+R-002,High-Value Pending Invoice,invoices.csv,amount_usd > 50000 AND approval_status = 'Pending',Critical,Fast-track approval and notify department head.
+R-003,Ticket SLA Breached,customer_tickets.csv,sla_status = 'Breached',High,Reassign to escalations team and inform the customer.
+R-004,Ticket Close to SLA Deadline,customer_tickets.csv,sla_status = 'At Risk',Medium,Prioritize ticket before the SLA deadline is missed.
+R-005,Approval Bottleneck,approval_requests.csv,"waiting_days > 5 AND approval_status IN ('Pending','Escalated')",Medium,Remind approver and check for process blockers.
+R-006,Critical Request Still Pending,approval_requests.csv,business_impact = 'Critical' AND approval_status = 'Pending',Critical,Escalate to senior leadership for urgent decision.

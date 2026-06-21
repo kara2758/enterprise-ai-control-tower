@@ -1,0 +1,321 @@
+ticket_id,customer_name,department,issue_type,priority,opened_date,sla_deadline,resolved_date,status,assigned_team,response_time_hours,resolution_time_hours,sla_status,customer_segment
+TCK-20001,Quinn Volkov,Finance,Technical Problem,Medium,2026-06-05 10:00:00,2026-06-07 10:00:00,2026-06-06 06:18:00,Resolved,Account Management,27.1,20.3,Within SLA,Enterprise
+TCK-20002,Parker Bennett,IT,Complaint,Low,2026-05-18 11:00:00,2026-05-21 11:00:00,2026-05-21 15:48:00,Resolved,Technical Team,83.9,76.8,Breached,Individual
+TCK-20003,Sasha Okafor,Finance,Account Request,High,2026-06-18 23:00:00,2026-06-19 23:00:00,,Escalated,Account Management,25.5,,Breached,Enterprise
+TCK-20004,Emerson Reyes,Finance,Account Request,Medium,2026-06-18 23:00:00,2026-06-20 23:00:00,,Waiting for Customer,Tier 2 Support,39.2,,Breached,SMB
+TCK-20005,Taylor Schmidt,IT,Technical Problem,Critical,2026-06-21 08:00:00,2026-06-21 16:00:00,,Waiting for Customer,Account Management,0.9,,Breached,SMB
+TCK-20006,Sam Nguyen,Customer Support,Account Request,High,2026-06-17 22:00:00,2026-06-18 22:00:00,2026-06-18 15:48:00,Resolved,Tier 1 Support,11.5,17.8,Within SLA,Individual
+TCK-20007,Casey Volkov,Customer Support,Complaint,Medium,2026-06-21 10:00:00,2026-06-23 10:00:00,,Open,Tier 1 Support,24.2,,Within SLA,Enterprise
+TCK-20008,Quinn Kowalski,HR,Account Request,Medium,2026-06-03 07:00:00,2026-06-05 07:00:00,2026-06-06 11:00:00,Resolved,Escalations Team,50.8,76.0,Breached,Individual
+TCK-20009,Reese Bennett,IT,Service Delay,Medium,2026-05-27 20:00:00,2026-05-29 20:00:00,2026-05-30 07:06:00,Resolved,Account Management,35.8,59.1,Breached,SMB
+TCK-20010,Alex Larsson,Procurement,Service Delay,Low,2026-06-20 14:00:00,2026-06-23 14:00:00,,In Progress,Billing Team,77.6,,Within SLA,Government
+TCK-20011,Noor Tanaka,Procurement,Service Delay,High,2026-06-20 19:00:00,2026-06-21 19:00:00,,Open,Account Management,4.3,,Breached,Government
+TCK-20012,Sasha Andersen,Procurement,Billing Issue,Medium,2026-05-24 18:00:00,2026-05-26 18:00:00,2026-05-26 05:48:00,Resolved,Escalations Team,52.7,35.8,Within SLA,SMB
+TCK-20013,Devin Volkov,Finance,Technical Problem,Low,2026-06-19 21:00:00,2026-06-22 21:00:00,,Open,Tier 2 Support,12.2,,Within SLA,SMB
+TCK-20014,Quinn Ferreira,IT,Complaint,High,2026-05-23 23:00:00,2026-05-24 23:00:00,2026-05-25 05:42:00,Resolved,Technical Team,26.5,30.7,Breached,Enterprise
+TCK-20015,Sasha Volkov,Customer Support,Service Delay,High,2026-05-21 05:00:00,2026-05-22 05:00:00,2026-05-22 22:30:00,Resolved,Billing Team,13.1,41.5,Breached,SMB
+TCK-20016,Riley Volkov,Operations,Technical Problem,High,2026-05-08 22:00:00,2026-05-09 22:00:00,2026-05-09 15:18:00,Resolved,Account Management,8.6,17.3,Within SLA,SMB
+TCK-20017,Hayden Carter,IT,Technical Problem,High,2026-05-26 08:00:00,2026-05-27 08:00:00,2026-05-27 17:54:00,Resolved,Account Management,1.1,33.9,Breached,SMB
+TCK-20018,Marlowe Haddad,Procurement,Account Request,Medium,2026-06-05 05:00:00,2026-06-07 05:00:00,2026-06-06 08:06:00,Resolved,Technical Team,46.5,27.1,Within SLA,Startup
+TCK-20019,Rowan Foster,Finance,Complaint,Medium,2026-06-02 03:00:00,2026-06-04 03:00:00,2026-06-04 09:18:00,Resolved,Account Management,30.2,54.3,Breached,Startup
+TCK-20020,Morgan Rossi,Finance,Service Delay,Medium,2026-06-20 12:00:00,2026-06-22 12:00:00,,In Progress,Billing Team,17.5,,At Risk,Startup
+TCK-20021,Avery Bennett,Customer Support,Account Request,High,2026-05-07 04:00:00,2026-05-08 04:00:00,2026-05-07 11:18:00,Resolved,Account Management,9.0,7.3,Within SLA,Startup
+TCK-20022,Drew Nguyen,IT,Account Request,High,2026-06-18 13:00:00,2026-06-19 13:00:00,,Open,Technical Team,14.6,,Breached,Enterprise
+TCK-20023,Marlowe Patel,HR,Complaint,Medium,2026-06-21 00:00:00,2026-06-23 00:00:00,,Escalated,Account Management,20.1,,Within SLA,Government
+TCK-20024,Riley Schmidt,Customer Support,Technical Problem,Critical,2026-06-19 08:00:00,2026-06-19 16:00:00,,Open,Billing Team,3.2,,Breached,Enterprise
+TCK-20025,Riley Schmidt,Procurement,Data Correction,Medium,2026-06-18 04:00:00,2026-06-20 04:00:00,,Open,Tier 1 Support,46.7,,Breached,SMB
+TCK-20026,Sam Ferreira,Procurement,Complaint,Medium,2026-06-20 09:00:00,2026-06-22 09:00:00,,Open,Billing Team,24.5,,At Risk,Government
+TCK-20027,Emerson Hughes,IT,Technical Problem,High,2026-06-18 15:00:00,2026-06-19 15:00:00,,In Progress,Escalations Team,17.0,,Breached,Enterprise
+TCK-20028,Casey Sullivan,Procurement,Account Request,High,2026-06-02 11:00:00,2026-06-03 11:00:00,2026-06-04 00:00:00,Resolved,Escalations Team,2.0,37.0,Breached,Government
+TCK-20029,Sasha Larsson,HR,Technical Problem,Low,2026-06-21 01:00:00,2026-06-24 01:00:00,,Waiting for Customer,Billing Team,67.4,,Within SLA,Enterprise
+TCK-20030,Taylor Reyes,Customer Support,Account Request,Low,2026-06-11 06:00:00,2026-06-14 06:00:00,2026-06-13 22:00:00,Resolved,Account Management,66.2,64.0,Within SLA,Government
+TCK-20031,Parker Sullivan,HR,Service Delay,Medium,2026-06-19 23:00:00,2026-06-21 23:00:00,,Escalated,Tier 1 Support,0.8,,Breached,Startup
+TCK-20032,Blair Park,Operations,Technical Problem,High,2026-06-21 22:00:00,2026-06-22 22:00:00,,In Progress,Account Management,19.7,,Within SLA,Startup
+TCK-20033,Jordan Okafor,Procurement,Account Request,Medium,2026-05-20 06:00:00,2026-05-22 06:00:00,2026-05-20 12:36:00,Resolved,Account Management,18.0,6.6,Within SLA,Individual
+TCK-20034,Cameron Sullivan,Operations,Account Request,Medium,2026-05-09 20:00:00,2026-05-11 20:00:00,2026-05-13 02:00:00,Resolved,Tier 1 Support,20.1,78.0,Breached,SMB
+TCK-20035,Rowan Andersen,Operations,Billing Issue,Low,2026-06-20 21:00:00,2026-06-23 21:00:00,,Escalated,Billing Team,63.6,,Within SLA,Enterprise
+TCK-20036,Emerson Bennett,HR,Billing Issue,Medium,2026-06-19 04:00:00,2026-06-21 04:00:00,,In Progress,Account Management,36.1,,Breached,Enterprise
+TCK-20037,Marlowe Reyes,Operations,Data Correction,Low,2026-05-24 12:00:00,2026-05-27 12:00:00,2026-05-25 21:30:00,Resolved,Account Management,11.1,33.5,Within SLA,Enterprise
+TCK-20038,Emerson Mendez,HR,Technical Problem,Medium,2026-06-18 12:00:00,2026-06-20 12:00:00,,Open,Technical Team,30.2,,Breached,Enterprise
+TCK-20039,Morgan Rossi,Operations,Complaint,Medium,2026-06-20 12:00:00,2026-06-22 12:00:00,,In Progress,Tier 2 Support,7.0,,At Risk,Startup
+TCK-20040,Drew Murphy,Finance,Complaint,High,2026-06-20 03:00:00,2026-06-21 03:00:00,,Escalated,Technical Team,20.4,,Breached,SMB
+TCK-20041,Hayden Hughes,Finance,Complaint,High,2026-06-20 18:00:00,2026-06-21 18:00:00,,In Progress,Account Management,0.6,,Breached,Government
+TCK-20042,Quinn Haddad,Operations,Account Request,Low,2026-05-20 22:00:00,2026-05-23 22:00:00,2026-05-21 12:00:00,Resolved,Billing Team,62.7,14.0,Within SLA,Startup
+TCK-20043,Hayden Larsson,IT,Data Correction,Medium,2026-06-10 23:00:00,2026-06-12 23:00:00,2026-06-12 06:48:00,Resolved,Tier 1 Support,49.2,31.8,Within SLA,Enterprise
+TCK-20044,Hayden Haddad,Operations,Service Delay,High,2026-06-21 23:00:00,2026-06-22 23:00:00,,Waiting for Customer,Billing Team,24.6,,Within SLA,Government
+TCK-20045,Reese Kowalski,IT,Service Delay,Critical,2026-06-16 13:00:00,2026-06-16 21:00:00,2026-06-16 16:30:00,Resolved,Technical Team,7.9,3.5,Within SLA,Government
+TCK-20046,Marlowe Park,Finance,Technical Problem,High,2026-06-21 03:00:00,2026-06-22 03:00:00,,In Progress,Tier 1 Support,3.7,,At Risk,Government
+TCK-20047,Riley Mendez,IT,Service Delay,Critical,2026-06-19 00:00:00,2026-06-19 08:00:00,,In Progress,Escalations Team,6.7,,Breached,Enterprise
+TCK-20048,Casey Rossi,IT,Billing Issue,High,2026-06-18 03:00:00,2026-06-19 03:00:00,,Waiting for Customer,Technical Team,28.0,,Breached,Government
+TCK-20049,Noor Volkov,HR,Complaint,Low,2026-06-02 00:00:00,2026-06-05 00:00:00,2026-06-05 16:12:00,Resolved,Tier 2 Support,61.0,88.2,Breached,Startup
+TCK-20050,Hayden Park,Operations,Account Request,Medium,2026-06-18 17:00:00,2026-06-20 17:00:00,,Open,Billing Team,5.9,,Breached,Government
+TCK-20051,Blair Murphy,Customer Support,Account Request,Low,2026-06-18 18:00:00,2026-06-21 18:00:00,,Waiting for Customer,Technical Team,5.2,,Breached,SMB
+TCK-20052,Quinn Bennett,Customer Support,Technical Problem,Low,2026-06-20 18:00:00,2026-06-23 18:00:00,,In Progress,Escalations Team,28.9,,Within SLA,Government
+TCK-20053,Sasha Tanaka,Procurement,Billing Issue,Medium,2026-05-23 10:00:00,2026-05-25 10:00:00,2026-05-25 01:18:00,Resolved,Technical Team,46.3,39.3,Within SLA,Enterprise
+TCK-20054,Emerson Mendez,HR,Service Delay,Low,2026-05-17 07:00:00,2026-05-20 07:00:00,2026-05-17 19:42:00,Resolved,Escalations Team,0.5,12.7,Within SLA,Individual
+TCK-20055,Jordan Patel,IT,Service Delay,Low,2026-06-20 05:00:00,2026-06-23 05:00:00,,Open,Escalations Team,31.7,,Within SLA,Individual
+TCK-20056,Morgan Foster,HR,Technical Problem,Medium,2026-06-20 02:00:00,2026-06-22 02:00:00,,Open,Tier 1 Support,41.4,,At Risk,Startup
+TCK-20057,Cameron Walsh,Finance,Billing Issue,Medium,2026-06-20 11:00:00,2026-06-22 11:00:00,,In Progress,Tier 2 Support,31.8,,At Risk,Government
+TCK-20058,Quinn Mendez,Operations,Technical Problem,Low,2026-06-18 04:00:00,2026-06-21 04:00:00,,Open,Tier 1 Support,35.7,,Breached,Government
+TCK-20059,Morgan Ibrahim,Finance,Data Correction,Low,2026-06-21 00:00:00,2026-06-24 00:00:00,,Waiting for Customer,Account Management,62.1,,Within SLA,Individual
+TCK-20060,Devin Reyes,IT,Billing Issue,Low,2026-06-19 14:00:00,2026-06-22 14:00:00,,Waiting for Customer,Escalations Team,57.1,,Within SLA,Enterprise
+TCK-20061,Riley Walsh,Customer Support,Technical Problem,Medium,2026-05-15 09:00:00,2026-05-17 09:00:00,2026-05-18 04:42:00,Resolved,Account Management,53.3,67.7,Breached,SMB
+TCK-20062,Devin Kowalski,IT,Complaint,Low,2026-06-18 19:00:00,2026-06-21 19:00:00,,Open,Account Management,76.3,,Breached,SMB
+TCK-20063,Casey Reyes,IT,Complaint,Medium,2026-06-20 11:00:00,2026-06-22 11:00:00,,Escalated,Account Management,26.4,,At Risk,Individual
+TCK-20064,Parker Haddad,Operations,Technical Problem,Medium,2026-06-20 08:00:00,2026-06-22 08:00:00,,Open,Tier 2 Support,41.1,,At Risk,Individual
+TCK-20065,Marlowe Haddad,Operations,Complaint,High,2026-06-18 10:00:00,2026-06-19 10:00:00,,Open,Escalations Team,4.3,,Breached,Startup
+TCK-20066,Rowan Schmidt,HR,Account Request,High,2026-06-19 01:00:00,2026-06-20 01:00:00,,Open,Account Management,14.1,,Breached,Individual
+TCK-20067,Alex Kowalski,Operations,Billing Issue,Medium,2026-06-21 23:00:00,2026-06-23 23:00:00,,Waiting for Customer,Account Management,30.3,,Within SLA,Enterprise
+TCK-20068,Hayden Nguyen,Operations,Billing Issue,Low,2026-06-21 04:00:00,2026-06-24 04:00:00,,Open,Account Management,85.0,,Within SLA,Startup
+TCK-20069,Morgan Mendez,HR,Data Correction,Low,2026-06-20 03:00:00,2026-06-23 03:00:00,,In Progress,Escalations Team,70.4,,Within SLA,SMB
+TCK-20070,Marlowe Okafor,HR,Data Correction,High,2026-06-20 18:00:00,2026-06-21 18:00:00,,In Progress,Tier 1 Support,15.0,,Breached,Government
+TCK-20071,Parker Bennett,Finance,Data Correction,Medium,2026-06-18 09:00:00,2026-06-20 09:00:00,,Escalated,Billing Team,18.4,,Breached,SMB
+TCK-20072,Blair Walsh,HR,Data Correction,Medium,2026-06-19 16:00:00,2026-06-21 16:00:00,,Open,Billing Team,47.9,,Breached,Individual
+TCK-20073,Drew Tanaka,Operations,Data Correction,Medium,2026-06-18 04:00:00,2026-06-20 04:00:00,,In Progress,Tier 1 Support,55.6,,Breached,SMB
+TCK-20074,Harper Nguyen,Customer Support,Service Delay,Critical,2026-06-21 09:00:00,2026-06-21 17:00:00,,Open,Tier 2 Support,3.9,,Breached,SMB
+TCK-20075,Casey Larsson,Customer Support,Billing Issue,Medium,2026-05-31 10:00:00,2026-06-02 10:00:00,2026-06-01 00:12:00,Resolved,Account Management,41.0,14.2,Within SLA,Individual
+TCK-20076,Sam Andersen,Operations,Technical Problem,High,2026-05-16 07:00:00,2026-05-17 07:00:00,2026-05-17 17:06:00,Resolved,Escalations Team,10.6,34.1,Breached,Enterprise
+TCK-20077,Jamie Schmidt,Procurement,Service Delay,High,2026-05-18 07:00:00,2026-05-19 07:00:00,2026-05-18 22:42:00,Resolved,Billing Team,11.9,15.7,Within SLA,Startup
+TCK-20078,Parker Haddad,Finance,Billing Issue,Low,2026-06-19 05:00:00,2026-06-22 05:00:00,,Open,Account Management,41.3,,At Risk,Startup
+TCK-20079,Avery Bennett,HR,Service Delay,Medium,2026-06-18 18:00:00,2026-06-20 18:00:00,,Waiting for Customer,Technical Team,53.0,,Breached,Enterprise
+TCK-20080,Devin Ferreira,Customer Support,Complaint,Medium,2026-06-20 12:00:00,2026-06-22 12:00:00,,In Progress,Technical Team,1.9,,At Risk,Government
+TCK-20081,Taylor Foster,Operations,Complaint,Low,2026-06-21 00:00:00,2026-06-24 00:00:00,,Waiting for Customer,Escalations Team,28.0,,Within SLA,Enterprise
+TCK-20082,Morgan Sullivan,Customer Support,Data Correction,Medium,2026-05-12 18:00:00,2026-05-14 18:00:00,2026-05-14 07:12:00,Resolved,Account Management,49.9,37.2,Within SLA,Government
+TCK-20083,Alex Tanaka,HR,Service Delay,Medium,2026-06-18 01:00:00,2026-06-20 01:00:00,,Escalated,Tier 1 Support,39.7,,Breached,Enterprise
+TCK-20084,Quinn Ibrahim,IT,Account Request,Low,2026-06-05 07:00:00,2026-06-08 07:00:00,2026-06-09 17:42:00,Resolved,Account Management,6.6,106.7,Breached,Government
+TCK-20085,Emerson Hughes,HR,Complaint,Medium,2026-05-09 21:00:00,2026-05-11 21:00:00,2026-05-12 04:48:00,Resolved,Tier 1 Support,31.0,55.8,Breached,Enterprise
+TCK-20086,Drew Mendez,Finance,Service Delay,Medium,2026-06-20 11:00:00,2026-06-22 11:00:00,,In Progress,Technical Team,45.4,,At Risk,Government
+TCK-20087,Avery Reyes,HR,Account Request,Medium,2026-06-19 12:00:00,2026-06-21 12:00:00,,Open,Escalations Team,9.4,,Breached,Startup
+TCK-20088,Alex Dubois,Customer Support,Technical Problem,Critical,2026-05-09 01:00:00,2026-05-09 09:00:00,2026-05-09 14:48:00,Resolved,Tier 1 Support,6.4,13.8,Breached,Enterprise
+TCK-20089,Taylor Okafor,Operations,Data Correction,Low,2026-06-19 04:00:00,2026-06-22 04:00:00,,In Progress,Account Management,47.5,,At Risk,Startup
+TCK-20090,Riley Patel,Customer Support,Service Delay,Low,2026-06-19 07:00:00,2026-06-22 07:00:00,,Waiting for Customer,Tier 2 Support,12.7,,At Risk,Enterprise
+TCK-20091,Parker Tanaka,HR,Complaint,Low,2026-06-21 18:00:00,2026-06-24 18:00:00,,Open,Tier 1 Support,73.6,,Within SLA,Startup
+TCK-20092,Cameron Reyes,HR,Data Correction,High,2026-06-09 01:00:00,2026-06-10 01:00:00,2026-06-10 18:12:00,Resolved,Tier 2 Support,16.9,41.2,Breached,Enterprise
+TCK-20093,Hayden Okafor,HR,Complaint,Medium,2026-06-09 14:00:00,2026-06-11 14:00:00,2026-06-10 19:00:00,Resolved,Tier 2 Support,28.2,29.0,Within SLA,Individual
+TCK-20094,Sam Patel,Operations,Data Correction,Medium,2026-06-19 18:00:00,2026-06-21 18:00:00,,Waiting for Customer,Account Management,10.1,,Breached,Government
+TCK-20095,Logan Ferreira,Procurement,Account Request,Medium,2026-05-09 01:00:00,2026-05-11 01:00:00,2026-05-10 19:00:00,Resolved,Escalations Team,19.4,42.0,Within SLA,Enterprise
+TCK-20096,Casey Dubois,Operations,Service Delay,Low,2026-06-20 13:00:00,2026-06-23 13:00:00,,In Progress,Account Management,74.3,,Within SLA,Enterprise
+TCK-20097,Rowan Volkov,IT,Complaint,High,2026-06-19 08:00:00,2026-06-20 08:00:00,,Waiting for Customer,Tier 2 Support,18.4,,Breached,Enterprise
+TCK-20098,Casey Ferreira,IT,Technical Problem,Medium,2026-06-19 03:00:00,2026-06-21 03:00:00,,In Progress,Escalations Team,27.5,,Breached,Startup
+TCK-20099,Devin Carter,HR,Technical Problem,Low,2026-06-21 13:00:00,2026-06-24 13:00:00,,In Progress,Escalations Team,34.6,,Within SLA,SMB
+TCK-20100,Casey Park,HR,Account Request,High,2026-06-11 19:00:00,2026-06-12 19:00:00,2026-06-12 19:54:00,Resolved,Billing Team,16.5,24.9,Breached,Enterprise
+TCK-20101,Avery Bennett,HR,Technical Problem,Low,2026-06-21 16:00:00,2026-06-24 16:00:00,,In Progress,Escalations Team,23.2,,Within SLA,Startup
+TCK-20102,Blair Larsson,Finance,Data Correction,Medium,2026-06-21 19:00:00,2026-06-23 19:00:00,,Waiting for Customer,Escalations Team,2.8,,Within SLA,Startup
+TCK-20103,Cameron Volkov,HR,Billing Issue,High,2026-05-18 06:00:00,2026-05-19 06:00:00,2026-05-19 10:36:00,Resolved,Escalations Team,5.4,28.6,Breached,Startup
+TCK-20104,Cameron Rossi,IT,Complaint,Medium,2026-06-19 06:00:00,2026-06-21 06:00:00,,Waiting for Customer,Tier 1 Support,23.7,,Breached,Individual
+TCK-20105,Casey Murphy,Operations,Service Delay,High,2026-06-07 22:00:00,2026-06-08 22:00:00,2026-06-08 10:54:00,Resolved,Escalations Team,15.1,12.9,Within SLA,Enterprise
+TCK-20106,Sasha Sullivan,Customer Support,Technical Problem,High,2026-05-31 01:00:00,2026-06-01 01:00:00,2026-06-01 06:30:00,Resolved,Account Management,3.7,29.5,Breached,Government
+TCK-20107,Jordan Volkov,Operations,Billing Issue,Low,2026-05-16 06:00:00,2026-05-19 06:00:00,2026-05-19 16:00:00,Resolved,Tier 2 Support,14.3,82.0,Breached,Startup
+TCK-20108,Rowan Haddad,Finance,Data Correction,Critical,2026-06-19 21:00:00,2026-06-20 05:00:00,,In Progress,Account Management,6.0,,Breached,Startup
+TCK-20109,Harper Mendez,Operations,Complaint,Critical,2026-05-14 09:00:00,2026-05-14 17:00:00,2026-05-14 12:18:00,Resolved,Tier 2 Support,8.4,3.3,Within SLA,Individual
+TCK-20110,Taylor Patel,IT,Account Request,High,2026-05-09 14:00:00,2026-05-10 14:00:00,2026-05-10 16:12:00,Resolved,Tier 2 Support,26.6,26.2,Breached,Enterprise
+TCK-20111,Casey Mendez,Finance,Technical Problem,Low,2026-06-19 08:00:00,2026-06-22 08:00:00,,In Progress,Technical Team,59.3,,At Risk,Individual
+TCK-20112,Morgan Hughes,IT,Data Correction,Medium,2026-06-19 04:00:00,2026-06-21 04:00:00,,Waiting for Customer,Tier 2 Support,29.2,,Breached,Individual
+TCK-20113,Jordan Walsh,Customer Support,Account Request,Medium,2026-05-09 04:00:00,2026-05-11 04:00:00,2026-05-10 16:54:00,Resolved,Tier 2 Support,25.1,36.9,Within SLA,Government
+TCK-20114,Rowan Foster,IT,Technical Problem,High,2026-05-15 01:00:00,2026-05-16 01:00:00,2026-05-16 13:18:00,Resolved,Billing Team,26.2,36.3,Breached,Government
+TCK-20115,Parker Ibrahim,Procurement,Technical Problem,High,2026-06-21 14:00:00,2026-06-22 14:00:00,,Waiting for Customer,Tier 1 Support,8.5,,Within SLA,Enterprise
+TCK-20116,Sam Ibrahim,Procurement,Billing Issue,Medium,2026-06-21 12:00:00,2026-06-23 12:00:00,2026-06-22 00:00:00,Resolved,Tier 2 Support,37.9,12.0,Within SLA,Government
+TCK-20117,Hayden Kowalski,Operations,Account Request,High,2026-05-18 11:00:00,2026-05-19 11:00:00,2026-05-19 13:48:00,Resolved,Escalations Team,16.5,26.8,Breached,Individual
+TCK-20118,Cameron Walsh,IT,Data Correction,Medium,2026-05-17 09:00:00,2026-05-19 09:00:00,2026-05-18 12:12:00,Resolved,Tier 2 Support,15.0,27.2,Within SLA,Enterprise
+TCK-20119,Sam Dubois,Customer Support,Data Correction,High,2026-05-08 19:00:00,2026-05-09 19:00:00,2026-05-09 17:30:00,Resolved,Account Management,3.3,22.5,Within SLA,Enterprise
+TCK-20120,Casey Rossi,Customer Support,Account Request,Low,2026-06-22 00:00:00,2026-06-25 00:00:00,,Escalated,Tier 1 Support,69.6,,Within SLA,Enterprise
+TCK-20121,Reese Mendez,HR,Complaint,Medium,2026-05-14 23:00:00,2026-05-16 23:00:00,2026-05-18 07:30:00,Resolved,Billing Team,41.9,80.5,Breached,Individual
+TCK-20122,Logan Carter,Operations,Data Correction,Low,2026-06-21 02:00:00,2026-06-24 02:00:00,,Open,Escalations Team,55.5,,Within SLA,Startup
+TCK-20123,Avery Mendez,Operations,Data Correction,Low,2026-06-19 07:00:00,2026-06-22 07:00:00,,Open,Tier 1 Support,44.8,,At Risk,Startup
+TCK-20124,Cameron Schmidt,IT,Account Request,Low,2026-06-11 22:00:00,2026-06-14 22:00:00,2026-06-16 03:18:00,Resolved,Escalations Team,86.1,101.3,Breached,SMB
+TCK-20125,Parker Okafor,HR,Complaint,Medium,2026-06-21 16:00:00,2026-06-23 16:00:00,,Open,Escalations Team,53.0,,Within SLA,Startup
+TCK-20126,Jamie Tanaka,IT,Complaint,Medium,2026-06-20 20:00:00,2026-06-22 20:00:00,,Waiting for Customer,Tier 1 Support,35.1,,Within SLA,Startup
+TCK-20127,Drew Larsson,Finance,Complaint,Low,2026-06-19 01:00:00,2026-06-22 01:00:00,,In Progress,Billing Team,6.7,,At Risk,Individual
+TCK-20128,Reese Volkov,IT,Technical Problem,High,2026-06-18 08:00:00,2026-06-19 08:00:00,,In Progress,Billing Team,13.0,,Breached,Government
+TCK-20129,Quinn Hughes,IT,Data Correction,High,2026-06-21 21:00:00,2026-06-22 21:00:00,,Waiting for Customer,Tier 2 Support,14.1,,Within SLA,SMB
+TCK-20130,Quinn Patel,Procurement,Billing Issue,High,2026-05-30 08:00:00,2026-05-31 08:00:00,2026-05-31 14:36:00,Resolved,Technical Team,15.7,30.6,Breached,Startup
+TCK-20131,Jamie Volkov,Procurement,Technical Problem,Low,2026-06-19 12:00:00,2026-06-22 12:00:00,,Escalated,Account Management,27.5,,At Risk,SMB
+TCK-20132,Avery Mendez,Procurement,Technical Problem,Medium,2026-06-06 16:00:00,2026-06-08 16:00:00,2026-06-07 10:18:00,Resolved,Tier 1 Support,12.3,18.3,Within SLA,Enterprise
+TCK-20133,Alex Dubois,Finance,Account Request,Critical,2026-06-18 12:00:00,2026-06-18 20:00:00,,Open,Billing Team,5.0,,Breached,Individual
+TCK-20134,Sasha Murphy,Customer Support,Service Delay,Medium,2026-06-18 23:00:00,2026-06-20 23:00:00,,Waiting for Customer,Technical Team,50.1,,Breached,SMB
+TCK-20135,Devin Ferreira,IT,Data Correction,High,2026-05-19 11:00:00,2026-05-20 11:00:00,2026-05-20 10:48:00,Resolved,Tier 2 Support,14.0,23.8,Within SLA,Government
+TCK-20136,Alex Carter,HR,Technical Problem,Critical,2026-06-19 14:00:00,2026-06-19 22:00:00,,Open,Technical Team,3.4,,Breached,Individual
+TCK-20137,Sasha Mendez,Procurement,Service Delay,Low,2026-06-05 19:00:00,2026-06-08 19:00:00,2026-06-07 02:30:00,Resolved,Tier 2 Support,47.6,31.5,Within SLA,Government
+TCK-20138,Riley Volkov,Operations,Complaint,Medium,2026-05-29 13:00:00,2026-05-31 13:00:00,2026-05-30 13:54:00,Resolved,Account Management,49.3,24.9,Within SLA,SMB
+TCK-20139,Reese Sullivan,Operations,Data Correction,High,2026-06-20 18:00:00,2026-06-21 18:00:00,,Open,Tier 2 Support,16.2,,Breached,Government
+TCK-20140,Devin Dubois,HR,Service Delay,High,2026-05-21 20:00:00,2026-05-22 20:00:00,2026-05-23 08:48:00,Resolved,Technical Team,28.7,36.8,Breached,Startup
+TCK-20141,Marlowe Murphy,Finance,Technical Problem,Medium,2026-06-21 18:00:00,2026-06-23 18:00:00,,Waiting for Customer,Billing Team,23.2,,Within SLA,Government
+TCK-20142,Quinn Ferreira,Finance,Account Request,High,2026-05-31 16:00:00,2026-06-01 16:00:00,2026-06-01 16:36:00,Resolved,Tier 1 Support,10.7,24.6,Breached,Startup
+TCK-20143,Blair Haddad,Customer Support,Technical Problem,High,2026-06-20 23:00:00,2026-06-21 23:00:00,,Escalated,Billing Team,16.8,,Breached,Startup
+TCK-20144,Taylor Kowalski,Customer Support,Service Delay,Medium,2026-06-18 02:00:00,2026-06-20 02:00:00,,In Progress,Technical Team,26.0,,Breached,SMB
+TCK-20145,Emerson Volkov,IT,Billing Issue,High,2026-06-20 05:00:00,2026-06-21 05:00:00,,In Progress,Tier 1 Support,12.4,,Breached,SMB
+TCK-20146,Reese Nguyen,IT,Service Delay,Medium,2026-05-11 15:00:00,2026-05-13 15:00:00,2026-05-13 19:42:00,Resolved,Account Management,41.1,52.7,Breached,Individual
+TCK-20147,Alex Reyes,HR,Technical Problem,Medium,2026-06-21 03:00:00,2026-06-23 03:00:00,,In Progress,Account Management,11.0,,Within SLA,Startup
+TCK-20148,Reese Foster,Finance,Billing Issue,Critical,2026-06-21 14:00:00,2026-06-21 22:00:00,,Open,Technical Team,2.4,,Breached,Individual
+TCK-20149,Taylor Foster,Procurement,Complaint,Low,2026-06-19 05:00:00,2026-06-22 05:00:00,,Open,Tier 2 Support,66.2,,At Risk,Enterprise
+TCK-20150,Noor Okafor,IT,Data Correction,High,2026-06-20 09:00:00,2026-06-21 09:00:00,,Waiting for Customer,Tier 2 Support,7.0,,Breached,SMB
+TCK-20151,Sasha Tanaka,Customer Support,Service Delay,Medium,2026-06-19 03:00:00,2026-06-21 03:00:00,2026-06-22 00:00:00,Resolved,Escalations Team,20.9,69.0,Breached,Government
+TCK-20152,Emerson Tanaka,HR,Data Correction,Low,2026-06-19 03:00:00,2026-06-22 03:00:00,,Escalated,Account Management,15.7,,At Risk,Individual
+TCK-20153,Cameron Rossi,Customer Support,Technical Problem,Medium,2026-06-19 04:00:00,2026-06-21 04:00:00,,In Progress,Tier 1 Support,18.2,,Breached,Government
+TCK-20154,Casey Ferreira,Procurement,Account Request,Medium,2026-06-12 15:00:00,2026-06-14 15:00:00,2026-06-14 12:42:00,Resolved,Escalations Team,1.1,45.7,Within SLA,Enterprise
+TCK-20155,Alex Ibrahim,Procurement,Complaint,High,2026-06-18 00:00:00,2026-06-19 00:00:00,,In Progress,Tier 2 Support,14.0,,Breached,Enterprise
+TCK-20156,Noor Haddad,IT,Account Request,Medium,2026-05-17 11:00:00,2026-05-19 11:00:00,2026-05-18 01:54:00,Resolved,Tier 2 Support,23.0,14.9,Within SLA,Startup
+TCK-20157,Emerson Walsh,HR,Service Delay,Low,2026-06-19 06:00:00,2026-06-22 06:00:00,,In Progress,Billing Team,66.2,,At Risk,Individual
+TCK-20158,Logan Mendez,IT,Service Delay,High,2026-06-17 19:00:00,2026-06-18 19:00:00,2026-06-18 00:42:00,Resolved,Account Management,4.4,5.7,Within SLA,Individual
+TCK-20159,Morgan Okafor,Procurement,Technical Problem,Medium,2026-06-12 23:00:00,2026-06-14 23:00:00,2026-06-13 01:54:00,Resolved,Account Management,55.9,2.9,Within SLA,Government
+TCK-20160,Drew Rossi,Procurement,Account Request,High,2026-06-13 00:00:00,2026-06-14 00:00:00,2026-06-13 15:24:00,Resolved,Account Management,14.5,15.4,Within SLA,Enterprise
+TCK-20161,Reese Hughes,Customer Support,Account Request,Medium,2026-06-21 06:00:00,2026-06-23 06:00:00,,Waiting for Customer,Tier 2 Support,3.7,,Within SLA,SMB
+TCK-20162,Avery Kowalski,IT,Technical Problem,High,2026-05-29 00:00:00,2026-05-30 00:00:00,2026-05-30 09:24:00,Resolved,Account Management,4.0,33.4,Breached,Enterprise
+TCK-20163,Jamie Rossi,IT,Data Correction,Low,2026-06-21 12:00:00,2026-06-24 12:00:00,,Open,Billing Team,45.3,,Within SLA,Startup
+TCK-20164,Devin Foster,Procurement,Account Request,Low,2026-06-18 01:00:00,2026-06-21 01:00:00,,Open,Account Management,81.0,,Breached,Startup
+TCK-20165,Morgan Patel,HR,Account Request,Low,2026-06-18 11:00:00,2026-06-21 11:00:00,,Waiting for Customer,Billing Team,19.2,,Breached,Enterprise
+TCK-20166,Jordan Volkov,HR,Account Request,Low,2026-06-14 12:00:00,2026-06-17 12:00:00,2026-06-14 14:06:00,Resolved,Account Management,68.3,2.1,Within SLA,Individual
+TCK-20167,Taylor Schmidt,Customer Support,Service Delay,Low,2026-06-20 17:00:00,2026-06-23 17:00:00,,Open,Account Management,14.0,,Within SLA,Enterprise
+TCK-20168,Morgan Reyes,IT,Technical Problem,Low,2026-06-18 07:00:00,2026-06-21 07:00:00,,In Progress,Billing Team,46.6,,Breached,Individual
+TCK-20169,Alex Walsh,IT,Service Delay,High,2026-06-19 16:00:00,2026-06-20 16:00:00,,Open,Account Management,21.2,,Breached,SMB
+TCK-20170,Sasha Sullivan,Customer Support,Technical Problem,Medium,2026-05-07 10:00:00,2026-05-09 10:00:00,2026-05-09 09:18:00,Resolved,Escalations Team,32.4,47.3,Within SLA,Startup
+TCK-20171,Parker Murphy,Finance,Complaint,Medium,2026-06-18 20:00:00,2026-06-20 20:00:00,,In Progress,Tier 2 Support,52.7,,Breached,Government
+TCK-20172,Reese Park,Operations,Billing Issue,Medium,2026-05-29 10:00:00,2026-05-31 10:00:00,2026-05-31 17:30:00,Resolved,Escalations Team,0.5,55.5,Breached,Startup
+TCK-20173,Jamie Andersen,HR,Account Request,High,2026-06-17 03:00:00,2026-06-18 03:00:00,2026-06-18 14:36:00,Resolved,Escalations Team,27.9,35.6,Breached,SMB
+TCK-20174,Taylor Bennett,Operations,Technical Problem,Medium,2026-05-11 14:00:00,2026-05-13 14:00:00,2026-05-13 11:42:00,Resolved,Tier 1 Support,6.8,45.7,Within SLA,SMB
+TCK-20175,Sasha Andersen,Customer Support,Data Correction,Low,2026-06-19 06:00:00,2026-06-22 06:00:00,2026-06-21 09:00:00,Resolved,Escalations Team,55.6,51.0,Within SLA,Startup
+TCK-20176,Blair Rossi,Finance,Account Request,Low,2026-05-07 22:00:00,2026-05-10 22:00:00,2026-05-12 21:24:00,Resolved,Account Management,1.6,119.4,Breached,Enterprise
+TCK-20177,Marlowe Bennett,Customer Support,Service Delay,Medium,2026-06-19 19:00:00,2026-06-21 19:00:00,,Open,Escalations Team,47.4,,Breached,Enterprise
+TCK-20178,Devin Foster,Finance,Data Correction,High,2026-06-21 15:00:00,2026-06-22 15:00:00,,Waiting for Customer,Tier 2 Support,27.2,,Within SLA,Individual
+TCK-20179,Parker Park,Customer Support,Account Request,Medium,2026-05-10 17:00:00,2026-05-12 17:00:00,2026-05-14 02:54:00,Resolved,Account Management,33.0,81.9,Breached,Enterprise
+TCK-20180,Hayden Ibrahim,Finance,Technical Problem,High,2026-06-18 10:00:00,2026-06-19 10:00:00,,In Progress,Tier 2 Support,13.5,,Breached,Individual
+TCK-20181,Cameron Larsson,Customer Support,Service Delay,Medium,2026-06-11 07:00:00,2026-06-13 07:00:00,2026-06-12 21:48:00,Resolved,Billing Team,57.5,38.8,Within SLA,Government
+TCK-20182,Reese Dubois,HR,Service Delay,High,2026-06-01 05:00:00,2026-06-02 05:00:00,2026-06-02 05:00:00,Resolved,Billing Team,7.3,24.0,Within SLA,Government
+TCK-20183,Drew Carter,Procurement,Technical Problem,Medium,2026-06-19 15:00:00,2026-06-21 15:00:00,2026-06-21 12:12:00,Resolved,Tier 2 Support,34.5,45.2,Within SLA,Startup
+TCK-20184,Parker Andersen,Customer Support,Complaint,Low,2026-06-18 08:00:00,2026-06-21 08:00:00,,Waiting for Customer,Escalations Team,71.1,,Breached,SMB
+TCK-20185,Cameron Volkov,Operations,Technical Problem,Low,2026-06-21 05:00:00,2026-06-24 05:00:00,,In Progress,Billing Team,12.4,,Within SLA,Startup
+TCK-20186,Sasha Murphy,IT,Data Correction,Low,2026-06-08 01:00:00,2026-06-11 01:00:00,2026-06-09 19:48:00,Resolved,Account Management,7.1,42.8,Within SLA,Individual
+TCK-20187,Reese Hughes,Finance,Service Delay,High,2026-05-11 15:00:00,2026-05-12 15:00:00,2026-05-13 02:06:00,Resolved,Billing Team,1.6,35.1,Breached,Government
+TCK-20188,Emerson Carter,HR,Data Correction,Medium,2026-06-20 19:00:00,2026-06-22 19:00:00,,Waiting for Customer,Technical Team,43.2,,Within SLA,Enterprise
+TCK-20189,Avery Reyes,Finance,Data Correction,Medium,2026-05-18 06:00:00,2026-05-20 06:00:00,2026-05-20 01:54:00,Resolved,Account Management,9.0,43.9,Within SLA,Government
+TCK-20190,Avery Ibrahim,Procurement,Account Request,Critical,2026-06-18 23:00:00,2026-06-19 07:00:00,,Open,Tier 2 Support,5.1,,Breached,SMB
+TCK-20191,Reese Nguyen,Finance,Account Request,Medium,2026-06-18 01:00:00,2026-06-20 01:00:00,,In Progress,Escalations Team,3.3,,Breached,Government
+TCK-20192,Blair Volkov,Operations,Complaint,High,2026-06-13 09:00:00,2026-06-14 09:00:00,2026-06-14 06:36:00,Resolved,Escalations Team,16.3,21.6,Within SLA,Individual
+TCK-20193,Morgan Schmidt,IT,Account Request,Low,2026-05-25 14:00:00,2026-05-28 14:00:00,2026-05-28 17:06:00,Resolved,Billing Team,59.3,75.1,Breached,Startup
+TCK-20194,Cameron Mendez,IT,Complaint,Low,2026-05-12 00:00:00,2026-05-15 00:00:00,2026-05-12 22:48:00,Resolved,Tier 2 Support,66.6,22.8,Within SLA,Government
+TCK-20195,Casey Park,Finance,Billing Issue,Low,2026-06-20 23:00:00,2026-06-23 23:00:00,,Waiting for Customer,Account Management,59.4,,Within SLA,Enterprise
+TCK-20196,Drew Carter,Procurement,Data Correction,Low,2026-06-21 06:00:00,2026-06-24 06:00:00,,In Progress,Tier 1 Support,75.1,,Within SLA,Startup
+TCK-20197,Devin Nguyen,Customer Support,Account Request,Medium,2026-06-08 01:00:00,2026-06-10 01:00:00,2026-06-08 19:24:00,Resolved,Escalations Team,31.2,18.4,Within SLA,SMB
+TCK-20198,Hayden Andersen,Finance,Service Delay,High,2026-06-20 00:00:00,2026-06-21 00:00:00,,Open,Tier 2 Support,17.0,,Breached,Enterprise
+TCK-20199,Logan Haddad,Finance,Billing Issue,Medium,2026-06-18 17:00:00,2026-06-20 17:00:00,,Open,Technical Team,16.0,,Breached,Startup
+TCK-20200,Alex Okafor,HR,Account Request,High,2026-06-20 02:00:00,2026-06-21 02:00:00,,Waiting for Customer,Tier 2 Support,25.0,,Breached,Government
+TCK-20201,Emerson Dubois,Finance,Technical Problem,Medium,2026-06-20 08:00:00,2026-06-22 08:00:00,,Open,Tier 2 Support,28.2,,At Risk,Individual
+TCK-20202,Avery Andersen,Procurement,Service Delay,Critical,2026-06-18 05:00:00,2026-06-18 13:00:00,,In Progress,Technical Team,0.7,,Breached,Government
+TCK-20203,Devin Nguyen,Finance,Data Correction,High,2026-05-09 13:00:00,2026-05-10 13:00:00,2026-05-10 02:48:00,Resolved,Billing Team,10.6,13.8,Within SLA,Government
+TCK-20204,Quinn Patel,Operations,Service Delay,High,2026-06-21 21:00:00,2026-06-22 21:00:00,,Waiting for Customer,Technical Team,27.2,,Within SLA,SMB
+TCK-20205,Harper Patel,Customer Support,Technical Problem,Low,2026-05-09 05:00:00,2026-05-12 05:00:00,2026-05-12 22:18:00,Resolved,Technical Team,75.5,89.3,Breached,Startup
+TCK-20206,Parker Schmidt,Operations,Technical Problem,Critical,2026-05-18 20:00:00,2026-05-19 04:00:00,2026-05-18 22:54:00,Resolved,Billing Team,2.4,2.9,Within SLA,Individual
+TCK-20207,Sam Hughes,Customer Support,Complaint,Critical,2026-06-12 04:00:00,2026-06-12 12:00:00,2026-06-12 17:18:00,Resolved,Account Management,9.0,13.3,Breached,Enterprise
+TCK-20208,Sam Ibrahim,IT,Service Delay,Low,2026-06-21 06:00:00,2026-06-24 06:00:00,,Waiting for Customer,Technical Team,63.0,,Within SLA,Startup
+TCK-20209,Emerson Nguyen,Customer Support,Complaint,Low,2026-06-13 19:00:00,2026-06-16 19:00:00,2026-06-19 02:48:00,Resolved,Escalations Team,2.8,127.8,Breached,SMB
+TCK-20210,Casey Andersen,Customer Support,Account Request,Medium,2026-06-20 13:00:00,2026-06-22 13:00:00,2026-06-22 00:00:00,Resolved,Account Management,5.0,35.0,Within SLA,Startup
+TCK-20211,Harper Carter,Procurement,Account Request,Low,2026-05-22 20:00:00,2026-05-25 20:00:00,2026-05-24 02:06:00,Resolved,Tier 2 Support,14.6,30.1,Within SLA,SMB
+TCK-20212,Logan Patel,IT,Account Request,High,2026-05-24 05:00:00,2026-05-25 05:00:00,2026-05-24 19:42:00,Resolved,Tier 1 Support,14.4,14.7,Within SLA,Individual
+TCK-20213,Emerson Dubois,Customer Support,Data Correction,High,2026-06-01 12:00:00,2026-06-02 12:00:00,2026-06-02 20:18:00,Resolved,Account Management,17.8,32.3,Breached,Enterprise
+TCK-20214,Avery Andersen,Customer Support,Account Request,Medium,2026-06-21 19:00:00,2026-06-23 19:00:00,,In Progress,Account Management,50.6,,Within SLA,Enterprise
+TCK-20215,Jamie Okafor,IT,Account Request,Medium,2026-06-18 16:00:00,2026-06-20 16:00:00,,In Progress,Billing Team,55.5,,Breached,Startup
+TCK-20216,Logan Haddad,IT,Billing Issue,Medium,2026-05-13 23:00:00,2026-05-15 23:00:00,2026-05-17 05:12:00,Resolved,Account Management,39.9,78.2,Breached,Individual
+TCK-20217,Reese Ibrahim,Procurement,Account Request,Low,2026-06-18 07:00:00,2026-06-21 07:00:00,,Open,Tier 1 Support,47.4,,Breached,SMB
+TCK-20218,Taylor Nguyen,Procurement,Data Correction,Medium,2026-06-20 23:00:00,2026-06-22 23:00:00,,Waiting for Customer,Account Management,50.9,,Within SLA,SMB
+TCK-20219,Devin Walsh,IT,Data Correction,High,2026-06-14 02:00:00,2026-06-15 02:00:00,2026-06-14 18:18:00,Resolved,Escalations Team,13.2,16.3,Within SLA,Individual
+TCK-20220,Rowan Schmidt,Operations,Technical Problem,Critical,2026-05-28 23:00:00,2026-05-29 07:00:00,2026-05-29 12:12:00,Resolved,Tier 2 Support,7.5,13.2,Breached,SMB
+TCK-20221,Drew Haddad,Operations,Billing Issue,High,2026-06-02 15:00:00,2026-06-03 15:00:00,2026-06-04 08:36:00,Resolved,Tier 2 Support,21.2,41.6,Breached,SMB
+TCK-20222,Sasha Dubois,Finance,Complaint,Low,2026-06-21 23:00:00,2026-06-24 23:00:00,,Open,Technical Team,39.9,,Within SLA,SMB
+TCK-20223,Taylor Mendez,Customer Support,Billing Issue,Low,2026-06-19 14:00:00,2026-06-22 14:00:00,,Open,Tier 2 Support,35.7,,Within SLA,Individual
+TCK-20224,Casey Bennett,HR,Service Delay,Medium,2026-06-20 22:00:00,2026-06-22 22:00:00,,In Progress,Tier 1 Support,3.3,,Within SLA,SMB
+TCK-20225,Taylor Bennett,Finance,Account Request,High,2026-06-18 19:00:00,2026-06-19 19:00:00,,Open,Tier 2 Support,8.9,,Breached,SMB
+TCK-20226,Rowan Dubois,Operations,Account Request,High,2026-06-18 08:00:00,2026-06-19 08:00:00,,In Progress,Account Management,20.3,,Breached,Individual
+TCK-20227,Taylor Ibrahim,Customer Support,Billing Issue,Medium,2026-06-02 14:00:00,2026-06-04 14:00:00,2026-06-03 23:24:00,Resolved,Billing Team,21.5,33.4,Within SLA,Government
+TCK-20228,Harper Andersen,Operations,Data Correction,Low,2026-06-20 13:00:00,2026-06-23 13:00:00,,Open,Tier 2 Support,28.8,,Within SLA,Individual
+TCK-20229,Taylor Rossi,HR,Data Correction,Low,2026-06-18 16:00:00,2026-06-21 16:00:00,,In Progress,Escalations Team,45.9,,Breached,Startup
+TCK-20230,Emerson Ferreira,Operations,Complaint,Medium,2026-06-20 15:00:00,2026-06-22 15:00:00,,Waiting for Customer,Escalations Team,30.5,,Within SLA,Government
+TCK-20231,Emerson Patel,HR,Service Delay,Medium,2026-06-19 09:00:00,2026-06-21 09:00:00,,In Progress,Tier 2 Support,46.6,,Breached,Enterprise
+TCK-20232,Jamie Mendez,IT,Account Request,Low,2026-06-21 09:00:00,2026-06-24 09:00:00,,In Progress,Tier 1 Support,63.8,,Within SLA,Startup
+TCK-20233,Jamie Walsh,Procurement,Service Delay,Medium,2026-06-20 21:00:00,2026-06-22 21:00:00,,Waiting for Customer,Tier 1 Support,1.1,,Within SLA,Startup
+TCK-20234,Sam Larsson,IT,Data Correction,Medium,2026-06-22 00:00:00,2026-06-24 00:00:00,,In Progress,Escalations Team,7.0,,Within SLA,Individual
+TCK-20235,Sam Schmidt,IT,Account Request,Critical,2026-06-21 00:00:00,2026-06-21 08:00:00,,Waiting for Customer,Tier 1 Support,3.5,,Breached,SMB
+TCK-20236,Logan Ibrahim,HR,Billing Issue,Medium,2026-06-19 04:00:00,2026-06-21 04:00:00,,In Progress,Escalations Team,51.7,,Breached,Startup
+TCK-20237,Jamie Volkov,HR,Service Delay,Medium,2026-06-19 01:00:00,2026-06-21 01:00:00,,Open,Billing Team,31.1,,Breached,Enterprise
+TCK-20238,Riley Volkov,Customer Support,Account Request,Critical,2026-06-20 14:00:00,2026-06-20 22:00:00,2026-06-20 23:24:00,Resolved,Tier 2 Support,9.5,9.4,Breached,Individual
+TCK-20239,Sam Walsh,Finance,Service Delay,Low,2026-06-20 09:00:00,2026-06-23 09:00:00,,Open,Technical Team,61.1,,Within SLA,Enterprise
+TCK-20240,Morgan Ferreira,Finance,Technical Problem,Medium,2026-05-24 15:00:00,2026-05-26 15:00:00,2026-05-25 17:48:00,Resolved,Tier 1 Support,12.8,26.8,Within SLA,Government
+TCK-20241,Sam Rossi,HR,Complaint,Medium,2026-06-19 08:00:00,2026-06-21 08:00:00,,Open,Billing Team,9.3,,Breached,Startup
+TCK-20242,Casey Sullivan,HR,Billing Issue,Low,2026-06-19 06:00:00,2026-06-22 06:00:00,,Waiting for Customer,Technical Team,58.6,,At Risk,Government
+TCK-20243,Jordan Schmidt,Customer Support,Billing Issue,High,2026-06-22 00:00:00,2026-06-23 00:00:00,,In Progress,Billing Team,9.3,,Within SLA,Government
+TCK-20244,Drew Haddad,Operations,Service Delay,High,2026-05-10 01:00:00,2026-05-11 01:00:00,2026-05-11 02:24:00,Resolved,Tier 2 Support,9.3,25.4,Breached,SMB
+TCK-20245,Quinn Reyes,Operations,Service Delay,Medium,2026-06-19 16:00:00,2026-06-21 16:00:00,,In Progress,Tier 1 Support,38.8,,Breached,Enterprise
+TCK-20246,Cameron Dubois,Procurement,Service Delay,Critical,2026-06-21 11:00:00,2026-06-21 19:00:00,,In Progress,Tier 2 Support,2.4,,Breached,Startup
+TCK-20247,Jordan Reyes,Finance,Account Request,Medium,2026-06-02 05:00:00,2026-06-04 05:00:00,2026-06-04 04:12:00,Resolved,Account Management,51.4,47.2,Within SLA,Enterprise
+TCK-20248,Rowan Haddad,HR,Data Correction,Low,2026-05-25 12:00:00,2026-05-28 12:00:00,2026-05-28 17:42:00,Resolved,Technical Team,15.9,77.7,Breached,Individual
+TCK-20249,Taylor Tanaka,Customer Support,Technical Problem,Medium,2026-06-09 02:00:00,2026-06-11 02:00:00,2026-06-12 00:06:00,Resolved,Tier 1 Support,43.8,70.1,Breached,Government
+TCK-20250,Avery Reyes,Customer Support,Service Delay,Low,2026-05-11 02:00:00,2026-05-14 02:00:00,2026-05-13 15:30:00,Resolved,Billing Team,66.3,61.5,Within SLA,Government
+TCK-20251,Sam Tanaka,IT,Billing Issue,Low,2026-06-20 06:00:00,2026-06-23 06:00:00,,Waiting for Customer,Tier 1 Support,68.3,,Within SLA,Government
+TCK-20252,Cameron Mendez,Customer Support,Technical Problem,Low,2026-06-21 03:00:00,2026-06-24 03:00:00,,In Progress,Escalations Team,24.7,,Within SLA,Enterprise
+TCK-20253,Blair Hughes,Procurement,Complaint,Medium,2026-06-21 11:00:00,2026-06-23 11:00:00,,Open,Technical Team,19.1,,Within SLA,Government
+TCK-20254,Taylor Larsson,Operations,Data Correction,Medium,2026-06-06 07:00:00,2026-06-08 07:00:00,2026-06-08 01:12:00,Resolved,Escalations Team,9.6,42.2,Within SLA,Government
+TCK-20255,Hayden Hughes,HR,Data Correction,High,2026-05-31 07:00:00,2026-06-01 07:00:00,2026-05-31 15:18:00,Resolved,Escalations Team,20.1,8.3,Within SLA,Government
+TCK-20256,Logan Murphy,Procurement,Account Request,Low,2026-06-20 07:00:00,2026-06-23 07:00:00,,In Progress,Tier 1 Support,48.2,,Within SLA,Individual
+TCK-20257,Blair Schmidt,Finance,Billing Issue,Low,2026-06-20 00:00:00,2026-06-23 00:00:00,,Waiting for Customer,Tier 2 Support,28.6,,Within SLA,SMB
+TCK-20258,Casey Schmidt,Operations,Account Request,High,2026-06-18 15:00:00,2026-06-19 15:00:00,,Waiting for Customer,Escalations Team,23.4,,Breached,Startup
+TCK-20259,Sam Okafor,Customer Support,Data Correction,Medium,2026-06-20 23:00:00,2026-06-22 23:00:00,,In Progress,Billing Team,12.2,,Within SLA,Government
+TCK-20260,Emerson Andersen,IT,Technical Problem,High,2026-06-21 13:00:00,2026-06-22 13:00:00,,Waiting for Customer,Billing Team,17.0,,Within SLA,Enterprise
+TCK-20261,Parker Ferreira,Finance,Service Delay,Medium,2026-06-21 18:00:00,2026-06-23 18:00:00,,In Progress,Tier 1 Support,0.5,,Within SLA,SMB
+TCK-20262,Reese Kowalski,IT,Account Request,Medium,2026-06-18 16:00:00,2026-06-20 16:00:00,,In Progress,Escalations Team,18.7,,Breached,SMB
+TCK-20263,Cameron Ibrahim,Operations,Service Delay,High,2026-06-21 00:00:00,2026-06-22 00:00:00,,In Progress,Account Management,16.2,,At Risk,SMB
+TCK-20264,Harper Reyes,Finance,Technical Problem,Low,2026-06-20 20:00:00,2026-06-23 20:00:00,2026-06-22 00:00:00,Resolved,Account Management,62.5,28.0,Within SLA,Government
+TCK-20265,Harper Mendez,Operations,Account Request,High,2026-06-18 07:00:00,2026-06-19 07:00:00,,Waiting for Customer,Escalations Team,17.6,,Breached,Government
+TCK-20266,Harper Mendez,Finance,Complaint,Medium,2026-06-20 03:00:00,2026-06-22 03:00:00,,In Progress,Technical Team,13.4,,At Risk,SMB
+TCK-20267,Rowan Rossi,HR,Service Delay,High,2026-05-18 06:00:00,2026-05-19 06:00:00,2026-05-20 00:18:00,Resolved,Tier 1 Support,10.9,42.3,Breached,Individual
+TCK-20268,Devin Nguyen,IT,Complaint,Medium,2026-06-21 06:00:00,2026-06-23 06:00:00,,Open,Tier 1 Support,42.2,,Within SLA,Individual
+TCK-20269,Taylor Schmidt,HR,Complaint,High,2026-05-22 04:00:00,2026-05-23 04:00:00,2026-05-23 21:30:00,Resolved,Escalations Team,21.5,41.5,Breached,Startup
+TCK-20270,Sasha Tanaka,Customer Support,Account Request,Medium,2026-06-19 04:00:00,2026-06-21 04:00:00,,Waiting for Customer,Escalations Team,45.0,,Breached,Startup
+TCK-20271,Jordan Walsh,Customer Support,Data Correction,Medium,2026-06-20 11:00:00,2026-06-22 11:00:00,,Escalated,Billing Team,17.0,,At Risk,Individual
+TCK-20272,Jordan Schmidt,Procurement,Data Correction,Medium,2026-06-18 22:00:00,2026-06-20 22:00:00,,In Progress,Escalations Team,10.2,,Breached,Enterprise
+TCK-20273,Casey Mendez,Procurement,Service Delay,Medium,2026-05-20 22:00:00,2026-05-22 22:00:00,2026-05-21 22:42:00,Resolved,Billing Team,49.1,24.7,Within SLA,Enterprise
+TCK-20274,Hayden Tanaka,Procurement,Technical Problem,High,2026-06-18 21:00:00,2026-06-19 21:00:00,,In Progress,Billing Team,21.4,,Breached,SMB
+TCK-20275,Taylor Reyes,Customer Support,Technical Problem,Medium,2026-06-21 20:00:00,2026-06-23 20:00:00,,Open,Technical Team,20.1,,Within SLA,Government
+TCK-20276,Noor Ferreira,Finance,Data Correction,High,2026-05-24 01:00:00,2026-05-25 01:00:00,2026-05-24 10:54:00,Resolved,Billing Team,18.5,9.9,Within SLA,Enterprise
+TCK-20277,Noor Dubois,Operations,Account Request,Low,2026-06-19 12:00:00,2026-06-22 12:00:00,,In Progress,Account Management,26.4,,At Risk,Government
+TCK-20278,Reese Schmidt,Procurement,Complaint,Medium,2026-05-26 00:00:00,2026-05-28 00:00:00,2026-05-28 21:06:00,Resolved,Account Management,17.0,69.1,Breached,Enterprise
+TCK-20279,Harper Mendez,HR,Service Delay,Low,2026-06-20 03:00:00,2026-06-23 03:00:00,,In Progress,Billing Team,82.6,,Within SLA,Startup
+TCK-20280,Noor Patel,HR,Data Correction,Medium,2026-05-11 06:00:00,2026-05-13 06:00:00,2026-05-14 01:00:00,Resolved,Escalations Team,22.8,67.0,Breached,SMB
+TCK-20281,Alex Schmidt,Finance,Billing Issue,Medium,2026-06-21 01:00:00,2026-06-23 01:00:00,,Open,Tier 1 Support,18.4,,Within SLA,Government
+TCK-20282,Jamie Bennett,Finance,Complaint,Low,2026-05-24 13:00:00,2026-05-27 13:00:00,2026-05-26 02:24:00,Resolved,Tier 1 Support,19.3,37.4,Within SLA,Enterprise
+TCK-20283,Blair Foster,HR,Billing Issue,Critical,2026-06-20 21:00:00,2026-06-21 05:00:00,,Open,Tier 1 Support,9.1,,Breached,Individual
+TCK-20284,Riley Foster,HR,Technical Problem,Low,2026-06-18 14:00:00,2026-06-21 14:00:00,,Open,Billing Team,49.1,,Breached,Startup
+TCK-20285,Quinn Ibrahim,HR,Data Correction,Medium,2026-06-18 15:00:00,2026-06-20 15:00:00,,Escalated,Billing Team,26.4,,Breached,Startup
+TCK-20286,Quinn Nguyen,Operations,Account Request,Low,2026-06-18 12:00:00,2026-06-21 12:00:00,2026-06-22 00:00:00,Resolved,Tier 1 Support,33.9,84.0,Breached,Government
+TCK-20287,Parker Ibrahim,Operations,Complaint,Critical,2026-05-27 19:00:00,2026-05-28 03:00:00,2026-05-27 21:30:00,Resolved,Account Management,6.4,2.5,Within SLA,Enterprise
+TCK-20288,Taylor Volkov,HR,Service Delay,Critical,2026-06-21 11:00:00,2026-06-21 19:00:00,,Open,Technical Team,0.8,,Breached,Enterprise
+TCK-20289,Quinn Reyes,HR,Service Delay,High,2026-05-13 00:00:00,2026-05-14 00:00:00,2026-05-14 05:00:00,Resolved,Technical Team,26.9,29.0,Breached,Individual
+TCK-20290,Reese Park,Finance,Complaint,Low,2026-06-19 10:00:00,2026-06-22 10:00:00,,Open,Tier 2 Support,41.6,,At Risk,Enterprise
+TCK-20291,Parker Ferreira,Procurement,Data Correction,Medium,2026-06-19 11:00:00,2026-06-21 11:00:00,,Open,Billing Team,7.4,,Breached,Government
+TCK-20292,Parker Larsson,Finance,Account Request,Low,2026-06-18 14:00:00,2026-06-21 14:00:00,,Escalated,Billing Team,8.3,,Breached,SMB
+TCK-20293,Morgan Haddad,HR,Service Delay,Low,2026-05-28 03:00:00,2026-05-31 03:00:00,2026-05-31 21:30:00,Resolved,Technical Team,16.9,90.5,Breached,Enterprise
+TCK-20294,Rowan Patel,IT,Account Request,High,2026-06-09 20:00:00,2026-06-10 20:00:00,2026-06-09 22:06:00,Resolved,Tier 1 Support,1.5,2.1,Within SLA,Individual
+TCK-20295,Alex Bennett,Procurement,Billing Issue,Medium,2026-06-19 15:00:00,2026-06-21 15:00:00,,In Progress,Billing Team,55.7,,Breached,Enterprise
+TCK-20296,Parker Reyes,HR,Complaint,Medium,2026-05-11 03:00:00,2026-05-13 03:00:00,2026-05-14 12:18:00,Resolved,Tier 2 Support,30.4,81.3,Breached,Enterprise
+TCK-20297,Jordan Patel,HR,Data Correction,Low,2026-05-12 00:00:00,2026-05-15 00:00:00,2026-05-16 23:06:00,Resolved,Tier 2 Support,41.0,119.1,Breached,Enterprise
+TCK-20298,Rowan Hughes,Finance,Billing Issue,Low,2026-06-02 21:00:00,2026-06-05 21:00:00,2026-06-03 20:00:00,Resolved,Technical Team,39.7,23.0,Within SLA,Individual
+TCK-20299,Noor Schmidt,IT,Service Delay,High,2026-06-09 11:00:00,2026-06-10 11:00:00,2026-06-10 23:18:00,Resolved,Tier 1 Support,10.0,36.3,Breached,Individual
+TCK-20300,Morgan Nguyen,Operations,Account Request,Medium,2026-06-08 23:00:00,2026-06-10 23:00:00,2026-06-10 04:42:00,Resolved,Tier 2 Support,34.4,29.7,Within SLA,Startup
+TCK-20301,Blair Mendez,IT,Technical Problem,Medium,2026-05-15 23:00:00,2026-05-17 23:00:00,2026-05-18 19:36:00,Resolved,Tier 1 Support,8.1,68.6,Breached,Government
+TCK-20302,Harper Walsh,IT,Data Correction,Low,2026-06-16 02:00:00,2026-06-19 02:00:00,2026-06-20 21:06:00,Resolved,Tier 2 Support,56.5,115.1,Breached,SMB
+TCK-20303,Marlowe Bennett,Customer Support,Technical Problem,Low,2026-05-24 11:00:00,2026-05-27 11:00:00,2026-05-25 10:24:00,Resolved,Account Management,21.1,23.4,Within SLA,Government
+TCK-20304,Jamie Foster,Customer Support,Billing Issue,Medium,2026-06-02 13:00:00,2026-06-04 13:00:00,2026-06-04 13:36:00,Resolved,Escalations Team,24.4,48.6,Breached,Startup
+TCK-20305,Blair Schmidt,Operations,Service Delay,High,2026-06-19 08:00:00,2026-06-20 08:00:00,,Escalated,Tier 1 Support,6.7,,Breached,SMB
+TCK-20306,Jordan Bennett,HR,Service Delay,Low,2026-05-22 09:00:00,2026-05-25 09:00:00,2026-05-26 00:12:00,Resolved,Billing Team,15.6,87.2,Breached,SMB
+TCK-20307,Parker Murphy,Operations,Billing Issue,Medium,2026-05-23 23:00:00,2026-05-25 23:00:00,2026-05-24 04:30:00,Resolved,Technical Team,6.5,5.5,Within SLA,Individual
+TCK-20308,Rowan Larsson,IT,Technical Problem,Low,2026-06-18 04:00:00,2026-06-21 04:00:00,,Waiting for Customer,Account Management,38.7,,Breached,Startup
+TCK-20309,Jamie Kowalski,Operations,Billing Issue,Low,2026-06-07 21:00:00,2026-06-10 21:00:00,2026-06-10 03:06:00,Resolved,Technical Team,20.9,54.1,Within SLA,Individual
+TCK-20310,Emerson Tanaka,Operations,Account Request,Medium,2026-06-21 06:00:00,2026-06-23 06:00:00,,Waiting for Customer,Billing Team,12.8,,Within SLA,SMB
+TCK-20311,Marlowe Volkov,Finance,Service Delay,Medium,2026-05-30 16:00:00,2026-06-01 16:00:00,2026-05-31 03:54:00,Resolved,Tier 2 Support,12.0,11.9,Within SLA,Enterprise
+TCK-20312,Avery Okafor,Customer Support,Technical Problem,High,2026-06-21 03:00:00,2026-06-22 03:00:00,,In Progress,Account Management,22.0,,At Risk,Individual
+TCK-20313,Taylor Ibrahim,Customer Support,Account Request,Critical,2026-06-19 02:00:00,2026-06-19 10:00:00,,In Progress,Tier 2 Support,8.3,,Breached,Individual
+TCK-20314,Noor Patel,Operations,Service Delay,Medium,2026-06-21 23:00:00,2026-06-23 23:00:00,,In Progress,Technical Team,42.2,,Within SLA,Individual
+TCK-20315,Alex Ibrahim,Finance,Billing Issue,Low,2026-06-21 05:00:00,2026-06-24 05:00:00,,Escalated,Technical Team,79.0,,Within SLA,Individual
+TCK-20316,Marlowe Foster,IT,Account Request,Low,2026-06-19 11:00:00,2026-06-22 11:00:00,,In Progress,Tier 2 Support,70.1,,At Risk,Enterprise
+TCK-20317,Blair Hughes,Finance,Account Request,Medium,2026-05-26 18:00:00,2026-05-28 18:00:00,2026-05-27 20:18:00,Resolved,Account Management,8.1,26.3,Within SLA,Startup
+TCK-20318,Alex Tanaka,IT,Technical Problem,Low,2026-06-18 23:00:00,2026-06-21 23:00:00,,In Progress,Account Management,64.7,,Breached,Government
+TCK-20319,Blair Carter,HR,Billing Issue,Low,2026-06-18 16:00:00,2026-06-21 16:00:00,,Waiting for Customer,Technical Team,40.4,,Breached,Startup
+TCK-20320,Jamie Schmidt,Finance,Complaint,Medium,2026-06-04 02:00:00,2026-06-06 02:00:00,2026-06-06 01:18:00,Resolved,Billing Team,54.5,47.3,Within SLA,Enterprise
