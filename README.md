@@ -11,6 +11,8 @@
 > AI-powered business process intelligence, risk monitoring, and executive
 > decision support — built on synthetic enterprise data.
 
+![Enterprise AI Control Tower Dashboard](screenshots/dashboard_overview.png)
+
 ---
 
 ## Short Description
@@ -20,6 +22,26 @@ prototype. It consolidates business signals, computes KPIs, automatically detect
 risks, presents everything in a Streamlit dashboard, and uses (optional) AI to
 turn the numbers into a management-ready briefing and an interactive assistant —
 all on 100% synthetic data.
+
+## Demo Screenshots
+
+> All screenshots use synthetic data only.
+
+**Executive dashboard overview**
+
+![Dashboard overview](screenshots/dashboard_overview.png)
+
+**AI Executive Summary** — a management-ready briefing generated from KPIs and risks
+
+![AI Executive Summary](screenshots/ai_summary.png)
+
+**AI Manager Assistant** — natural-language Q&A over the metrics
+
+![AI Manager Assistant](screenshots/manager_assistant.png)
+
+**Weekly automated report** — generated for the n8n automation demo
+
+![Weekly management report](screenshots/weekly_report.png)
 
 ## Executive Summary
 
