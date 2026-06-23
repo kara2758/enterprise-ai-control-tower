@@ -11,6 +11,9 @@
 > AI-powered business process intelligence, risk monitoring, and executive
 > decision support — built on synthetic enterprise data.
 
+**🚀 Live demo:** https://huggingface.co/spaces/kara2758/enterprise-ai-control-tower
+(runs in demo mode — no API key needed)
+
 ![Enterprise AI Control Tower Dashboard](screenshots/dashboard_overview.png)
 
 ---
