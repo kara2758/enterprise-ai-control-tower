@@ -220,18 +220,23 @@ def render_manager_assistant(
             "If they are missing or the call fails, a demo fallback is shown."
         )
 
+    # Selecting a suggestion fills the question box. The on_change callback runs
+    # before the text_input is re-created on rerun, so writing its session_state
+    # key here is allowed and makes the choice visibly appear in the box.
+    def _apply_suggestion() -> None:
+        selected = st.session_state.get("assistant_suggestion", "—")
+        if selected and selected != "—":
+            st.session_state["assistant_question"] = selected
+
     suggestions = get_suggested_questions()
-    chosen = st.selectbox(
+    st.selectbox(
         "Suggested questions (optional)",
         ["—"] + suggestions,
         index=0,
         key="assistant_suggestion",
+        on_change=_apply_suggestion,
     )
-
-    default_text = "" if chosen == "—" else chosen
-    question = st.text_input(
-        "Ask a question", value=default_text, key="assistant_question"
-    )
+    question = st.text_input("Ask a question", key="assistant_question")
 
     if st.button("Ask Assistant"):
         with st.spinner("Thinking..."):
