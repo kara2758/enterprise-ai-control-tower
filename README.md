@@ -158,6 +158,32 @@ date `2026-06-22`) for the fictional company **ABC Global Services**:
 The data intentionally includes anomalies (overdue invoices, SLA breaches,
 approval bottlenecks). See [data/dataset_dictionary.md](data/dataset_dictionary.md).
 
+### Data flow & FAQ
+
+```
+scripts/generate_synthetic_data.py  →  data/*.csv  →  src/data_loader.py  →  KPI / Risk engines  →  Dashboard
+   (reproducible generator,             (invoices,     (loads + validates)
+    fixed seed = 42,                      tickets,
+    reference date 2026-06-22)            approvals)
+```
+
+**Where does the data come from?**
+It is 100% **synthetic**, produced by `scripts/generate_synthetic_data.py` for a
+fictional company (ABC Global Services). The fixed seed makes it fully
+reproducible. No real company, customer, invoice, vendor, employee, or personal
+data is used — this is a deliberate choice for a privacy-safe portfolio demo.
+
+**Is there manual data entry?**
+No. The dashboard is a read-only decision-support tool. Data is loaded from the
+generated CSV files through a single integration module, `src/data_loader.py`.
+
+**How would this work with real data?**
+`src/data_loader.py` is the only integration point. In a production version you
+would point it at real sources (database, ERP/CRM, or APIs) and the KPI, risk,
+AI, and dashboard layers would keep working unchanged. See
+[docs/system_architecture.md](docs/system_architecture.md) and
+[docs/future_roadmap.md](docs/future_roadmap.md).
+
 ## KPI Engine
 
 `src/kpi_engine.py` computes four KPI groups — invoice, ticket, approval, and a
